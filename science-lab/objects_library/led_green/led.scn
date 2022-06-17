@@ -1,0 +1,186 @@
+{
+	"anims": [
+		{
+			"anim": {
+				"t_end": 0,
+				"t_start": 0,
+				"vec4": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.04983871430158615,
+									0.9843137860298157,
+									0.0,
+									1.0
+								]
+							}
+						],
+						"target": "Material.0.uColorOpacity"
+					}
+				]
+			},
+			"idx": 0
+		},
+		{
+			"anim": {
+				"t_end": 0,
+				"t_start": 0,
+				"vec4": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.04983871430158615,
+									0.9843137860298157,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Material.0.uColorOpacity"
+					}
+				]
+			},
+			"idx": 1
+		}
+	],
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			66,
+			66,
+			66,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			0,
+			0,
+			0,
+			255
+		],
+		"current_camera": null,
+		"fog_color": [
+			255,
+			255,
+			255,
+			255
+		],
+		"fog_far": 0.0,
+		"fog_near": 0.0
+	},
+	"key_values": null,
+	"nodes": [
+		{
+			"components": [
+				0,
+				4294967295,
+				0,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 0,
+			"name": "led"
+		}
+	],
+	"objects": [
+		{
+			"material_infos": [
+				{
+					"name": "led"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "add",
+					"depth_test": "less",
+					"face_culling": "disabled",
+					"program": "shaders/led.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "objects_library/led_green/led_gradient.png",
+							"stage": 3
+						}
+					],
+					"values": [
+						{
+							"name": "uColorOpacity",
+							"type": "vec4",
+							"value": [
+								0.04983871430158615,
+								0.9843137860298157,
+								0.0,
+								1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "objects_library/led_green/led.geo"
+		}
+	],
+	"scene_anims": [
+		{
+			"anim": null,
+			"frame_duration": 50000000,
+			"name": "on",
+			"node_anims": [
+				{
+					"anim": 0,
+					"node": 0
+				}
+			],
+			"t_end": 100000000,
+			"t_start": 0
+		},
+		{
+			"anim": null,
+			"frame_duration": 50000000,
+			"name": "off",
+			"node_anims": [
+				{
+					"anim": 1,
+					"node": 0
+				}
+			],
+			"t_end": 100000000,
+			"t_start": 0
+		}
+	],
+	"transforms": [
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		}
+	]
+}

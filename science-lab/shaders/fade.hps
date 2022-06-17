@@ -1,0 +1,7 @@
+{
+	"uniforms": [
+					{"name": "uColorMap", "type": "Sampler","channel":0},
+					{"name": "uFadeMap", "type": "Sampler","channel":1},
+					{"name": "t", "type": "Vec4"}
+				]
+}

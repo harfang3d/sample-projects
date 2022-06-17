@@ -1,0 +1,1331 @@
+{
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			102,
+			102,
+			102,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			0,
+			0,
+			0,
+			0
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": null,
+		"fog_color": [
+			0,
+			0,
+			0,
+			0
+		],
+		"fog_far": 0.0,
+		"fog_near": 0.0,
+		"irradiance_map": "core/pbr/probe.hdr.irradiance",
+		"radiance_map": "core/pbr/probe.hdr.radiance"
+	},
+	"instances": [
+		{
+			"name": "stand_cage_vr/support_bache/support_bache.scn"
+		},
+		{
+			"name": "stand_cage_vr/attaches_bache_sides/attaches_bache_sides.scn"
+		},
+		{
+			"name": "stand_cage_vr/attaches_bache_sides/attaches_bache_sides.scn"
+		},
+		{
+			"name": "stand_cage_vr/attaches_bache_sides/attaches_bache_sides.scn"
+		},
+		{
+			"name": "stand_cage_vr/bache_rings/bache_rings.scn"
+		},
+		{
+			"name": "stand_cage_vr/coin_50cm/coin_50cm.scn"
+		},
+		{
+			"name": "stand_cage_vr/support_basestation/support_basestation.scn"
+		},
+		{
+			"name": "stand_cage_vr/support_basestation/support_basestation.scn"
+		},
+		{
+			"name": "stand_cage_vr/pied/pied.scn"
+		},
+		{
+			"name": "stand_cage_vr/pied/pied.scn"
+		},
+		{
+			"name": "stand_cage_vr/pied/pied.scn"
+		},
+		{
+			"name": "stand_cage_vr/coin_50cm/coin_50cm.scn"
+		},
+		{
+			"name": "stand_cage_vr/coin_50cm/coin_50cm.scn"
+		},
+		{
+			"name": "stand_cage_vr/coin_50cm/coin_50cm.scn"
+		},
+		{
+			"name": "stand_cage_vr/8barres/8barres.scn"
+		},
+		{
+			"name": "stand_cage_vr/8barres/8barres.scn"
+		},
+		{
+			"name": "stand_cage_vr/8barres/8barres.scn"
+		},
+		{
+			"name": "stand_cage_vr/10barres/10barres.scn"
+		},
+		{
+			"name": "stand_cage_vr/10barres/10barres.scn"
+		},
+		{
+			"name": "stand_cage_vr/10barres/10barres.scn"
+		},
+		{
+			"name": "stand_cage_vr/10barres/10barres.scn"
+		},
+		{
+			"name": "stand_cage_vr/attaches_bases_up_down/attaches_bases_up_down.scn"
+		},
+		{
+			"name": "stand_cage_vr/attaches_bases_up_down/attaches_bases_up_down.scn"
+		},
+		{
+			"name": "stand_cage_vr/attaches_bases_up_down/attaches_bases_up_down.scn"
+		},
+		{
+			"name": "stand_cage_vr/pied/pied.scn"
+		},
+		{
+			"name": "stand_cage_vr/support_bache/support_bache.scn"
+		},
+		{
+			"name": "stand_cage_vr/basestation/basestation.scn"
+		},
+		{
+			"name": "stand_cage_vr/basestation/basestation.scn"
+		},
+		{
+			"name": "stand_cage_vr/bache_exterieur/bache_exterieur1.scn"
+		},
+		{
+			"name": "stand_cage_vr/bache_interieur/bache_interieur1.scn"
+		},
+		{
+			"name": "stand_cage_vr/bache_interieur/bache_interieur2.scn"
+		},
+		{
+			"name": "stand_cage_vr/bache_exterieur/bache_exterieur3.scn"
+		},
+		{
+			"name": "stand_cage_vr/bache_exterieur/bache_exterieur2.scn"
+		},
+		{
+			"name": "stand_cage_vr/8barres/8barres.scn"
+		},
+		{
+			"name": "stand_cage_vr/bache_interieur/bache_interieur3.scn"
+		},
+		{
+			"name": "stand_cage_vr/bache_rings/bache_rings.scn"
+		},
+		{
+			"name": "stand_cage_vr/bache_rings/bache_rings.scn"
+		},
+		{
+			"name": "stand_cage_vr/support_bache/support_bache.scn"
+		}
+	],
+	"key_values": null,
+	"nodes": [
+		{
+			"components": [
+				0,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 0,
+			"instance": 20,
+			"name": "10barres"
+		},
+		{
+			"components": [
+				1,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 1,
+			"instance": 19,
+			"name": "10barres"
+		},
+		{
+			"components": [
+				2,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 2,
+			"instance": 18,
+			"name": "10barres"
+		},
+		{
+			"components": [
+				3,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 3,
+			"instance": 17,
+			"name": "10barres"
+		},
+		{
+			"components": [
+				4,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 4,
+			"instance": 16,
+			"name": "8barres"
+		},
+		{
+			"components": [
+				5,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 5,
+			"instance": 15,
+			"name": "8barres"
+		},
+		{
+			"components": [
+				6,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 6,
+			"instance": 14,
+			"name": "8barres"
+		},
+		{
+			"components": [
+				7,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 7,
+			"instance": 33,
+			"name": "8barres"
+		},
+		{
+			"components": [
+				8,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 8,
+			"instance": 13,
+			"name": "coin_50cm"
+		},
+		{
+			"components": [
+				9,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 9,
+			"instance": 12,
+			"name": "coin_50cm"
+		},
+		{
+			"components": [
+				10,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 10,
+			"instance": 11,
+			"name": "coin_50cm"
+		},
+		{
+			"components": [
+				11,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 11,
+			"instance": 5,
+			"name": "coin_50cm"
+		},
+		{
+			"components": [
+				12,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 12,
+			"instance": 10,
+			"name": "pied"
+		},
+		{
+			"components": [
+				13,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 13,
+			"instance": 9,
+			"name": "pied"
+		},
+		{
+			"components": [
+				14,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 14,
+			"instance": 8,
+			"name": "pied"
+		},
+		{
+			"components": [
+				15,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 15,
+			"instance": 24,
+			"name": "pied"
+		},
+		{
+			"components": [
+				16,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 16,
+			"instance": 25,
+			"name": "support_bache"
+		},
+		{
+			"components": [
+				17,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 17,
+			"instance": 37,
+			"name": "support_bache"
+		},
+		{
+			"components": [
+				18,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 18,
+			"instance": 0,
+			"name": "support_bache"
+		},
+		{
+			"components": [
+				19,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 19,
+			"instance": 3,
+			"name": "attaches_bache_sides"
+		},
+		{
+			"components": [
+				20,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 20,
+			"instance": 2,
+			"name": "attaches_bache_sides"
+		},
+		{
+			"components": [
+				21,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 21,
+			"instance": 1,
+			"name": "attaches_bache_sides"
+		},
+		{
+			"components": [
+				22,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 22,
+			"instance": 23,
+			"name": "attaches_bases_up_down"
+		},
+		{
+			"components": [
+				23,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 23,
+			"instance": 22,
+			"name": "attaches_bases_up_down"
+		},
+		{
+			"components": [
+				24,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 24,
+			"instance": 21,
+			"name": "attaches_bases_up_down"
+		},
+		{
+			"components": [
+				27,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 25,
+			"instance": 4,
+			"name": "bache_rings"
+		},
+		{
+			"components": [
+				25,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 26,
+			"instance": 35,
+			"name": "bache_rings"
+		},
+		{
+			"components": [
+				26,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 27,
+			"instance": 36,
+			"name": "bache_rings"
+		},
+		{
+			"components": [
+				30,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 28,
+			"instance": 26,
+			"name": "basestation"
+		},
+		{
+			"components": [
+				31,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 29,
+			"instance": 27,
+			"name": "basestation"
+		},
+		{
+			"components": [
+				28,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 30,
+			"instance": 7,
+			"name": "support_basestation"
+		},
+		{
+			"components": [
+				29,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 31,
+			"instance": 6,
+			"name": "support_basestation"
+		},
+		{
+			"components": [
+				36,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 32,
+			"instance": 30,
+			"name": "bache_interieur2"
+		},
+		{
+			"components": [
+				37,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 33,
+			"instance": 32,
+			"name": "bache_exterieur2"
+		},
+		{
+			"components": [
+				32,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 34,
+			"instance": 28,
+			"name": "bache_exterieur1"
+		},
+		{
+			"components": [
+				33,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 35,
+			"instance": 29,
+			"name": "bache_interieur1"
+		},
+		{
+			"components": [
+				34,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 36,
+			"instance": 31,
+			"name": "bache_exterieur3"
+		},
+		{
+			"components": [
+				35,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 37,
+			"instance": 34,
+			"name": "bache_interieur3"
+		}
+	],
+	"transforms": [
+		{
+			"parent": null,
+			"pos": [
+				-1.1670900583267212,
+				0.05571400001645088,
+				-1.1661499738693237
+			],
+			"rot": [
+				0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1.167099952697754,
+				0.05570000037550926,
+				-1.1661499738693237
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-1.1670900583267212,
+				0.05571400001645088,
+				1.166100025177002
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1.167099952697754,
+				0.05571400001645088,
+				1.166100025177002
+			],
+			"rot": [
+				0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-1.2333999872207642,
+				2.140320062637329,
+				0.7016919851303101
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1.233430027961731,
+				2.140320062637329,
+				0.70169997215271
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-0.7027000188827515,
+				2.140320062637329,
+				-1.2335000038146973
+			],
+			"rot": [
+				0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.7026849985122681,
+				2.140320062637329,
+				1.233489990234375
+			],
+			"rot": [
+				0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-1.1670900583267212,
+				1.7999999523162842,
+				-1.166159987449646
+			],
+			"rot": [
+				0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1.167099952697754,
+				1.7999999523162842,
+				-1.166159987449646
+			],
+			"rot": [
+				0.0,
+				180.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1.167099952697754,
+				1.7999999523162842,
+				1.166200041770935
+			],
+			"rot": [
+				0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-1.1670900583267212,
+				1.7999999523162842,
+				1.166200041770935
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1.167099952697754,
+				0.0,
+				-1.1661499738693237
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-1.1670900583267212,
+				0.0,
+				1.166100025177002
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-1.1670900583267212,
+				0.0,
+				-1.1661499738693237
+			],
+			"rot": [
+				0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1.167099952697754,
+				0.0,
+				1.166100025177002
+			],
+			"rot": [
+				0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-1.2320300340652466,
+				0.14479100704193115,
+				-1.100890040397644
+			],
+			"rot": [
+				0.0,
+				180.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1.23294997215271,
+				0.14479100704193115,
+				1.1018699407577515
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-1.1008800268173218,
+				0.14479100704193115,
+				1.2330100536346436
+			],
+			"rot": [
+				0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				1.1090999841690063,
+				1.2348899841308594
+			],
+			"rot": [
+				0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1.234820008277893,
+				1.1090999841690063,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-1.2338999509811401,
+				1.1091463565826416,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				1.1083999872207642,
+				1.2348899841308594
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999999403953552,
+				1.0,
+				0.9999999403953552
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-1.2338999509811401,
+				1.1068999767303467,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1.234820008277893,
+				1.1068999767303467,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				1.1083999872207642,
+				1.2348999977111816
+			],
+			"rot": [
+				0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-1.2338999509811401,
+				1.1083999872207642,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1.2338999509811401,
+				1.1083999872207642,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1.167099952697754,
+				1.7999999523162842,
+				-1.166200041770935
+			],
+			"rot": [
+				0.0,
+				180.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-1.167099952697754,
+				1.7999999523162842,
+				1.166200041770935
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1.167099952697754,
+				1.7999999523162842,
+				-1.166200041770935
+			],
+			"rot": [
+				0.0,
+				180.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-1.167099952697754,
+				1.7999999523162842,
+				1.166200041770935
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-1.2338999509811401,
+				1.1083999872207642,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-1.2330000400543213,
+				1.1083999872207642,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1.2338999509811401,
+				1.1083999872207642,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1.2338000535964966,
+				1.1083999872207642,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				1.1083999872207642,
+				1.2347999811172485
+			],
+			"rot": [
+				0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				1.1083999872207642,
+				1.2348999977111816
+			],
+			"rot": [
+				0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"profiles": {
+		"default": {
+			"compression": "BC3",
+			"generate-mips": true,
+			"mag-filter": "Anisotropic",
+			"max-size": 2048,
+			"min-filter": "Anisotropic"
+		}
+	}
+}

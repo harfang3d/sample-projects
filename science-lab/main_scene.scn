@@ -1,0 +1,3591 @@
+{
+	"cameras": [
+		{
+			"fov": 0.7853981852531433,
+			"ortho": false,
+			"size": 1.0,
+			"zrange": {
+				"zfar": 1000.0,
+				"znear": 0.009999999776482582
+			}
+		},
+		{
+			"fov": 0.7853981852531433,
+			"ortho": false,
+			"size": 1.0,
+			"zrange": {
+				"zfar": 1000.0,
+				"znear": 0.009999999776482582
+			}
+		},
+		{
+			"fov": 0.7853981852531433,
+			"ortho": false,
+			"size": 1.0,
+			"zrange": {
+				"zfar": 1000.0,
+				"znear": 0.009999999776482582
+			}
+		},
+		{
+			"fov": 1.0471975803375244,
+			"ortho": false,
+			"size": 1.0,
+			"zrange": {
+				"zfar": 1000.0,
+				"znear": 0.009999999776482582
+			}
+		},
+		{
+			"fov": 0.9424780011177063,
+			"ortho": false,
+			"size": 1.0,
+			"zrange": {
+				"zfar": 1000.0,
+				"znear": 0.009999999776482582
+			}
+		}
+	],
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			196,
+			236,
+			255,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			0,
+			0,
+			0,
+			0
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": 70,
+		"fog_color": [
+			0,
+			0,
+			0,
+			0
+		],
+		"fog_far": 0.0,
+		"fog_near": 0.0,
+		"probe": {
+			"irradiance_map": "core/pbr/suburban_parking_area.hdr.irradiance",
+			"parallax": 0.0,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"radiance_map": "core/pbr/suburban_parking_area.hdr.radiance",
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			],
+			"type": "sphere"
+		}
+	},
+	"instances": [
+		{
+			"name": "objects_library/caisse/caisse.scn"
+		},
+		{
+			"name": "objects_library/roland/roland.scn"
+		},
+		{
+			"anim": "init",
+			"loop_mode": "none",
+			"name": "assembly/assembly_slide.scn"
+		},
+		{
+			"name": "objects_library/caisse/caisse.scn"
+		},
+		{
+			"name": "objects_library/tabouret/tabouret.scn"
+		},
+		{
+			"name": "assembly/assembly_pc.scn"
+		},
+		{
+			"name": "objects_library/coffre/coffre.scn"
+		},
+		{
+			"name": "objects_library/coffre/coffre.scn"
+		},
+		{
+			"name": "assembly/assembly_table.scn"
+		},
+		{
+			"name": "objects_library/phone/phone.scn"
+		},
+		{
+			"name": "objects_library/imprimante_rouge_export/imprimante_rouge_export.scn"
+		},
+		{
+			"name": "objects_library/coffre/coffre.scn"
+		},
+		{
+			"name": "assembly/assembly_pc.scn"
+		},
+		{
+			"name": "objects_library/tabouret/tabouret.scn"
+		},
+		{
+			"name": "objects_library/poubelle/poubelle.scn"
+		},
+		{
+			"name": "assembly/assembly_table.scn"
+		},
+		{
+			"name": "assembly/assembly_plates.scn"
+		},
+		{
+			"name": "assembly/assembly_pc.scn"
+		},
+		{
+			"name": "assembly/assembly_table.scn"
+		},
+		{
+			"name": "assembly/assembly_table.scn"
+		},
+		{
+			"name": "assembly/assembly_building.scn"
+		},
+		{
+			"name": "assembly/assembly_compressor.scn"
+		},
+		{
+			"name": "assembly/assembly_epilog.scn"
+		},
+		{
+			"name": "assembly/assembly_pc.scn"
+		},
+		{
+			"name": "assembly/assembly_table.scn"
+		},
+		{
+			"name": "core_library/playground_limit/playground_limit.scn"
+		},
+		{
+			"anim": "default_screen",
+			"loop_mode": "none",
+			"name": "assembly/assembly_big_screen.scn"
+		},
+		{
+			"name": "objects_library/tabouret/tabouret.scn"
+		},
+		{
+			"name": "assembly/assembly_table.scn"
+		},
+		{
+			"name": "objects_library/tabouret/tabouret.scn"
+		},
+		{
+			"name": "objects_library/caisse/caisse.scn"
+		},
+		{
+			"name": "objects_library/caisse/caisse.scn"
+		},
+		{
+			"name": "objects_library/caisse/caisse.scn"
+		},
+		{
+			"name": "objects_library/caisse/caisse.scn"
+		},
+		{
+			"name": "assembly/assembly_table.scn"
+		},
+		{
+			"name": "objects_library/tabouret/tabouret.scn"
+		},
+		{
+			"name": "objects_library/tabouret/tabouret.scn"
+		},
+		{
+			"name": "objects_library/poubelle/poubelle.scn"
+		},
+		{
+			"name": "objects_library/coffre/coffre.scn"
+		},
+		{
+			"name": "objects_library/coffre/coffre.scn"
+		},
+		{
+			"name": "objects_library/caisse/caisse.scn"
+		},
+		{
+			"name": "objects_library/caisse/caisse.scn"
+		},
+		{
+			"name": "objects_library/caisse/caisse.scn"
+		}
+	],
+	"key_values": null,
+	"lights": [
+		{
+			"diffuse": [
+				1000,
+				900,
+				800,
+				255
+			],
+			"diffuse_intensity": 1.0,
+			"inner_angle": 9.999999747378752e-05,
+			"outer_angle": 0.6981316804885864,
+			"priority": 1.0,
+			"pssm_split": [
+				10.0,
+				50.0,
+				100.0,
+				500.0
+			],
+			"radius": 0.0,
+			"shadow_bias": 0.0010000000474974513,
+			"shadow_type": "map",
+			"specular": [
+				0,
+				0,
+				0,
+				255
+			],
+			"specular_intensity": 1.0,
+			"type": "spot"
+		},
+		{
+			"diffuse": [
+				512,
+				512,
+				512,
+				255
+			],
+			"diffuse_intensity": 1.0,
+			"inner_angle": 0.0872664600610733,
+			"outer_angle": 0.1745329201221466,
+			"priority": 0.0,
+			"pssm_split": [
+				10.0,
+				50.0,
+				100.0,
+				500.0
+			],
+			"radius": 30.0,
+			"shadow_bias": 9.999999747378752e-06,
+			"shadow_type": "none",
+			"specular": [
+				0,
+				0,
+				0,
+				255
+			],
+			"specular_intensity": 1.0,
+			"type": "spot"
+		},
+		{
+			"diffuse": [
+				512,
+				512,
+				512,
+				255
+			],
+			"diffuse_intensity": 1.0,
+			"inner_angle": 0.0872664600610733,
+			"outer_angle": 0.13962633907794952,
+			"priority": 0.0,
+			"pssm_split": [
+				10.0,
+				50.0,
+				100.0,
+				500.0
+			],
+			"radius": 10.0,
+			"shadow_bias": 9.999999747378752e-06,
+			"shadow_type": "none",
+			"specular": [
+				0,
+				0,
+				0,
+				255
+			],
+			"specular_intensity": 1.0,
+			"type": "spot"
+		},
+		{
+			"diffuse": [
+				512,
+				512,
+				512,
+				255
+			],
+			"diffuse_intensity": 1.0,
+			"inner_angle": 9.999999747378752e-05,
+			"outer_angle": 0.1745329201221466,
+			"priority": 0.0,
+			"pssm_split": [
+				10.0,
+				50.0,
+				100.0,
+				500.0
+			],
+			"radius": 15.0,
+			"shadow_bias": 9.999999747378752e-06,
+			"shadow_type": "none",
+			"specular": [
+				0,
+				0,
+				0,
+				255
+			],
+			"specular_intensity": 1.0,
+			"type": "spot"
+		}
+	],
+	"nodes": [
+		{
+			"components": [
+				0,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 0,
+			"instance": 25,
+			"name": "playground_limit"
+		},
+		{
+			"components": [
+				62,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 1,
+			"name": "step_epilog_mini_left_side"
+		},
+		{
+			"components": [
+				63,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 2,
+			"name": "step_pc"
+		},
+		{
+			"components": [
+				1,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 3,
+			"instance": 24,
+			"name": "assembly_table_work"
+		},
+		{
+			"components": [
+				2,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 4,
+			"instance": 23,
+			"name": "assembly_pc_work"
+		},
+		{
+			"components": [
+				3,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 5,
+			"instance": 22,
+			"name": "assembly_epilog"
+		},
+		{
+			"components": [
+				4,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 6,
+			"instance": 21,
+			"name": "assembly_compressor"
+		},
+		{
+			"components": [
+				20,
+				4294967295,
+				7,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 7,
+			"name": "poster1"
+		},
+		{
+			"components": [
+				5,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 8,
+			"instance": 20,
+			"name": "assembly_building"
+		},
+		{
+			"components": [
+				6,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 9,
+			"instance": 19,
+			"name": "assembly_table"
+		},
+		{
+			"components": [
+				7,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 10,
+			"instance": 18,
+			"name": "assembly_table"
+		},
+		{
+			"components": [
+				8,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 11,
+			"instance": 17,
+			"name": "assembly_pc"
+		},
+		{
+			"components": [
+				9,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 12,
+			"instance": 16,
+			"name": "assembly_plates"
+		},
+		{
+			"components": [
+				10,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 13,
+			"name": "step_material"
+		},
+		{
+			"components": [
+				40,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 14,
+			"instance": 3,
+			"name": "caisse1"
+		},
+		{
+			"components": [
+				11,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 15,
+			"instance": 26,
+			"name": "assembly_big_screen"
+		},
+		{
+			"components": [
+				12,
+				4294967295,
+				4294967295,
+				0,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 16,
+			"name": "Light"
+		},
+		{
+			"components": [
+				13,
+				4294967295,
+				0,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 17,
+			"name": "poster9"
+		},
+		{
+			"components": [
+				14,
+				4294967295,
+				1,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 18,
+			"name": "poster8"
+		},
+		{
+			"components": [
+				15,
+				4294967295,
+				2,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 19,
+			"name": "poster7"
+		},
+		{
+			"components": [
+				22,
+				4294967295,
+				4,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 20,
+			"name": "poster5"
+		},
+		{
+			"components": [
+				17,
+				4294967295,
+				5,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 21,
+			"name": "poster4"
+		},
+		{
+			"components": [
+				18,
+				4294967295,
+				6,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 22,
+			"name": "poster3"
+		},
+		{
+			"components": [
+				19,
+				4294967295,
+				8,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 23,
+			"name": "poster2"
+		},
+		{
+			"components": [
+				21,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 24,
+			"name": "posters"
+		},
+		{
+			"components": [
+				16,
+				4294967295,
+				3,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 25,
+			"name": "poster6"
+		},
+		{
+			"components": [
+				23,
+				4294967295,
+				9,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 26,
+			"name": "poster10"
+		},
+		{
+			"components": [
+				27,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 27,
+			"instance": 9,
+			"name": "phone"
+		},
+		{
+			"components": [
+				28,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 28,
+			"instance": 10,
+			"name": "imprimante_rouge_export"
+		},
+		{
+			"components": [
+				29,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 29,
+			"instance": 11,
+			"name": "coffre"
+		},
+		{
+			"components": [
+				26,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 30,
+			"instance": 8,
+			"name": "assembly_table"
+		},
+		{
+			"components": [
+				24,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 31,
+			"instance": 15,
+			"name": "assembly_table"
+		},
+		{
+			"components": [
+				25,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 32,
+			"instance": 34,
+			"name": "assembly_table"
+		},
+		{
+			"components": [
+				30,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 33,
+			"instance": 1,
+			"name": "roland"
+		},
+		{
+			"components": [
+				31,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 34,
+			"name": "poi_rubbish"
+		},
+		{
+			"components": [
+				43,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 35,
+			"instance": 36,
+			"name": "tabouret"
+		},
+		{
+			"components": [
+				44,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 36,
+			"instance": 4,
+			"name": "tabouret"
+		},
+		{
+			"components": [
+				45,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 37,
+			"instance": 35,
+			"name": "tabouret"
+		},
+		{
+			"components": [
+				42,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 38,
+			"instance": 7,
+			"name": "coffre"
+		},
+		{
+			"components": [
+				46,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 39,
+			"instance": 13,
+			"name": "tabouret"
+		},
+		{
+			"components": [
+				41,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 40,
+			"instance": 6,
+			"name": "coffre"
+		},
+		{
+			"components": [
+				32,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 41,
+			"instance": 5,
+			"name": "assembly_pc"
+		},
+		{
+			"components": [
+				33,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 42,
+			"instance": 0,
+			"name": "caisse"
+		},
+		{
+			"components": [
+				48,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 43,
+			"instance": 42,
+			"name": "caisse2"
+		},
+		{
+			"components": [
+				47,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 44,
+			"instance": 41,
+			"name": "caisse3"
+		},
+		{
+			"components": [
+				34,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 45,
+			"instance": 40,
+			"name": "caisse4"
+		},
+		{
+			"components": [
+				36,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 46,
+			"instance": 38,
+			"name": "coffre"
+		},
+		{
+			"components": [
+				35,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 47,
+			"instance": 39,
+			"name": "coffre"
+		},
+		{
+			"components": [
+				37,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 48,
+			"instance": 37,
+			"name": "poubelle"
+		},
+		{
+			"components": [
+				38,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 49,
+			"instance": 14,
+			"name": "poubelle"
+		},
+		{
+			"components": [
+				53,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 50,
+			"instance": 30,
+			"name": "caisse3"
+		},
+		{
+			"components": [
+				39,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 51,
+			"name": "caisses_assembly_1"
+		},
+		{
+			"components": [
+				52,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 52,
+			"instance": 32,
+			"name": "caisse2"
+		},
+		{
+			"components": [
+				54,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 53,
+			"instance": 31,
+			"name": "caisse1"
+		},
+		{
+			"components": [
+				56,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 54,
+			"instance": 33,
+			"name": "caisse4"
+		},
+		{
+			"components": [
+				55,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 55,
+			"name": "caisses_assembly_2"
+		},
+		{
+			"components": [
+				49,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 56,
+			"instance": 29,
+			"name": "tabouret"
+		},
+		{
+			"components": [
+				50,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 57,
+			"instance": 28,
+			"name": "assembly_table"
+		},
+		{
+			"components": [
+				51,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 58,
+			"instance": 27,
+			"name": "tabouret"
+		},
+		{
+			"components": [
+				57,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 59,
+			"instance": 12,
+			"name": "assembly_pc"
+		},
+		{
+			"components": [
+				60,
+				4294967295,
+				4294967295,
+				3,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 60,
+			"name": "WindowLight"
+		},
+		{
+			"components": [
+				58,
+				4294967295,
+				4294967295,
+				1,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 61,
+			"name": "WindowLight"
+		},
+		{
+			"components": [
+				59,
+				4294967295,
+				4294967295,
+				2,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 62,
+			"name": "WindowLight"
+		},
+		{
+			"components": [
+				61,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 63,
+			"name": "step_epilog_mini"
+		},
+		{
+			"components": [
+				64,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 64,
+			"name": "spawnpoint"
+		},
+		{
+			"components": [
+				65,
+				4294967295,
+				10,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 65,
+			"name": "sphere_chrome"
+		},
+		{
+			"components": [
+				66,
+				4294967295,
+				11,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 66,
+			"name": "whiteboard"
+		},
+		{
+			"components": [
+				67,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 67,
+			"instance": 2,
+			"name": "assembly_slide"
+		},
+		{
+			"components": [
+				68,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 68,
+			"name": "step_slide"
+		},
+		{
+			"components": [
+				69,
+				0,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 69,
+			"name": "Camera"
+		},
+		{
+			"components": [
+				70,
+				1,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 70,
+			"name": "Camera"
+		},
+		{
+			"components": [
+				71,
+				2,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 71,
+			"name": "Camera"
+		},
+		{
+			"components": [
+				72,
+				3,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 72,
+			"name": "Camera"
+		},
+		{
+			"components": [
+				73,
+				4,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 74,
+			"name": "Camera"
+		}
+	],
+	"objects": [
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "textures/poster_info/Lasers-9.png",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.16877639293670654,
+								0.16877470910549164,
+								0.16877470910549164,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.9459999799728394,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "core_library/primitives/plane.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "textures/poster_info/Lasers-8.png",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.16877639293670654,
+								0.16877470910549164,
+								0.16877470910549164,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.9459999799728394,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "core_library/primitives/plane.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "textures/poster_info/Lasers-7.png",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.16877639293670654,
+								0.16877470910549164,
+								0.16877470910549164,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.9459999799728394,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "core_library/primitives/plane.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "textures/poster_info/Lasers-6.png",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.16877639293670654,
+								0.16877470910549164,
+								0.16877470910549164,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.9459999799728394,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "core_library/primitives/plane.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "textures/poster_info/Lasers-5.png",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.16877639293670654,
+								0.16877470910549164,
+								0.16877470910549164,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.9459999799728394,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "core_library/primitives/plane.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "textures/poster_info/Lasers-4.png",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.16877639293670654,
+								0.16877470910549164,
+								0.16877470910549164,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.9459999799728394,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "core_library/primitives/plane.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "textures/poster_info/Lasers-3.png",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.16877639293670654,
+								0.16877470910549164,
+								0.16877470910549164,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.9459999799728394,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "core_library/primitives/plane.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "textures/poster_info/Lasers-1.png",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.16877639293670654,
+								0.16877470910549164,
+								0.16877470910549164,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.9459999799728394,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "core_library/primitives/plane.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "textures/poster_info/Lasers-2.png",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.16877639293670654,
+								0.16877470910549164,
+								0.16877470910549164,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.9459999799728394,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "core_library/primitives/plane.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "textures/poster_info/Lasers-10.png",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.16877639293670654,
+								0.16877470910549164,
+								0.16877470910549164,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.9459999799728394,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "core_library/primitives/plane.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.03797471523284912,
+								0.03781448304653168,
+								0.03781448304653168,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								0.492000013589859,
+								0.40400001406669617,
+								0.7900000214576721,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "core_library/primitives/sphere.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.9999899864196777,
+								0.9999899864196777,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.2460000067949295,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "core_library/primitives/plane.geo"
+		}
+	],
+	"transforms": [
+		{
+			"parent": null,
+			"pos": [
+				0.0014762580394744873,
+				0.009999999776482582,
+				-0.24143216013908386
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				2.5,
+				0.10000000149011612,
+				2.5
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.030348464846611023,
+				0.00840197503566742,
+				0.8677476644515991
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-0.5030789971351624,
+				0.8846203088760376,
+				0.8701017498970032
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999982118606567,
+				1.0,
+				0.9999982118606567
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.5964946746826172,
+				0.8838290572166443,
+				0.817839503288269
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.2961784899234772,
+				-5.960464477539063e-08,
+				0.4735608696937561
+			],
+			"rot": [
+				-0.0,
+				-40.430809020996094,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				1.0,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-15.772695541381836,
+				-0.4169573187828064,
+				-0.10179281234741211
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-0.13327345252037048,
+				0.0,
+				-1.274867296218872
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-2.533562660217285,
+				0.0,
+				-0.8716861605644226
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999997615814209,
+				1.0,
+				0.9999997615814209
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-2.5366671085357666,
+				0.898186445236206,
+				-1.379178762435913
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999990463256836,
+				1.0,
+				0.9999990463256836
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.1969861388206482,
+				0.8969762921333313,
+				-1.039457082748413
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.5987961888313293,
+				0.009999999776482582,
+				-0.7545537352561951
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-0.6136320233345032,
+				1.1629999876022339,
+				0.9422709345817566
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				4.07988623286437e-15,
+				5.02612829208374,
+				3.460612276739994e-07
+			],
+			"rot": [
+				90.0,
+				-5.008955668017734e-06,
+				5.008955668017734e-06
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999997615814209,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": 24,
+			"pos": [
+				-0.8927655220031738,
+				1.6052000522613525,
+				0.001057744026184082
+			],
+			"rot": [
+				-90.0,
+				-179.99989318847656,
+				8.651422831462696e-06
+			],
+			"scl": [
+				0.29699981212615967,
+				0.999998152256012,
+				0.4199998080730438
+			]
+		},
+		{
+			"parent": 24,
+			"pos": [
+				-0.23532438278198242,
+				1.6052000522613525,
+				0.001057744026184082
+			],
+			"rot": [
+				-89.98018646240234,
+				-179.99989318847656,
+				8.651421921967994e-06
+			],
+			"scl": [
+				0.2969997823238373,
+				0.9999982714653015,
+				0.41999977827072144
+			]
+		},
+		{
+			"parent": 24,
+			"pos": [
+				-0.003885507583618164,
+				2.0464999675750732,
+				0.001057744026184082
+			],
+			"rot": [
+				-90.0,
+				-179.99989318847656,
+				8.651421921967994e-06
+			],
+			"scl": [
+				0.29699984192848206,
+				0.9999985098838806,
+				0.4199998378753662
+			]
+		},
+		{
+			"parent": 24,
+			"pos": [
+				0.17651915550231934,
+				1.6052000522613525,
+				0.001057744026184082
+			],
+			"rot": [
+				-90.0,
+				8.651422831462696e-06,
+				-179.99989318847656
+			],
+			"scl": [
+				0.29699981212615967,
+				0.9999983906745911,
+				0.4199998080730438
+			]
+		},
+		{
+			"parent": 24,
+			"pos": [
+				0.5809280872344971,
+				1.6052000522613525,
+				0.001057744026184082
+			],
+			"rot": [
+				-89.98018646240234,
+				-179.99989318847656,
+				8.651416464999784e-06
+			],
+			"scl": [
+				0.2969997525215149,
+				0.9999980330467224,
+				0.41999974846839905
+			]
+		},
+		{
+			"parent": 24,
+			"pos": [
+				0.7900377511978149,
+				2.0464999675750732,
+				0.001057744026184082
+			],
+			"rot": [
+				-90.0,
+				-179.99989318847656,
+				8.651416464999784e-06
+			],
+			"scl": [
+				0.29699984192848206,
+				0.9999983906745911,
+				0.4199998378753662
+			]
+		},
+		{
+			"parent": 24,
+			"pos": [
+				0.9913654327392578,
+				1.6052424907684326,
+				0.001057744026184082
+			],
+			"rot": [
+				-89.98018646240234,
+				-179.99989318847656,
+				8.651421921967994e-06
+			],
+			"scl": [
+				0.2969997823238373,
+				0.9999979138374329,
+				0.41999977827072144
+			]
+		},
+		{
+			"parent": 24,
+			"pos": [
+				1.1805481910705566,
+				2.046464443206787,
+				0.0010745525360107422
+			],
+			"rot": [
+				-90.0,
+				8.651422831462696e-06,
+				-179.99989318847656
+			],
+			"scl": [
+				0.29699984192848206,
+				0.9999986290931702,
+				0.4199998378753662
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-1.760582447052002,
+				2.384185791015625e-07,
+				-1.8970990180969238
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 24,
+			"pos": [
+				0.3946632146835327,
+				2.0464999675750732,
+				0.001057744026184082
+			],
+			"rot": [
+				-90.0,
+				-179.99989318847656,
+				8.651421921967994e-06
+			],
+			"scl": [
+				0.29699984192848206,
+				0.9999985098838806,
+				0.4199998378753662
+			]
+		},
+		{
+			"parent": 24,
+			"pos": [
+				-0.5615839958190918,
+				1.6052000522613525,
+				0.001057744026184082
+			],
+			"rot": [
+				-90.0,
+				-179.99989318847656,
+				8.651422831462696e-06
+			],
+			"scl": [
+				0.29699981212615967,
+				0.999998152256012,
+				0.4199998080730438
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				5.514276027679443,
+				0.0,
+				-1.313321590423584
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.999999463558197,
+				1.0,
+				0.999999463558197
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				4.445435523986816,
+				2.384185791015625e-07,
+				1.2754400968551636
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.999999463558197,
+				1.0,
+				0.999999463558197
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				4.669307708740234,
+				0.0,
+				-1.3133214712142944
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999995231628418,
+				1.0,
+				0.9999995231628418
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-2.9832262992858887,
+				1.6926177740097046,
+				-1.1920336484909058
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999993443489075,
+				1.0,
+				0.9999993443489075
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-2.012601613998413,
+				0.0,
+				1.1315604448318481
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1.418627381324768,
+				2.384185791015625e-07,
+				-1.413611650466919
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.8999999761581421,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-2.5401978492736816,
+				0.8858400583267212,
+				-0.4485970139503479
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999994039535522,
+				1.0,
+				0.9999994039535522
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-0.7454261779785156,
+				0.8970705270767212,
+				-1.0161960124969482
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999994039535522,
+				1.0,
+				0.9999994039535522
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				4.021573066711426,
+				0.8981865644454956,
+				1.3932214975357056
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.9999989867210388,
+				1.0,
+				0.9999989867210388
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				5.083450794219971,
+				0.8948768377304077,
+				-1.9907784461975098
+			],
+			"rot": [
+				-0.0,
+				19.99999237060547,
+				0.0
+			],
+			"scl": [
+				0.800000011920929,
+				0.800000011920929,
+				0.800000011920929
+			]
+		},
+		{
+			"parent": 51,
+			"pos": [
+				0.012386023998260498,
+				0.14004194736480713,
+				-0.04038098454475403
+			],
+			"rot": [
+				-0.0,
+				84.99995422363281,
+				0.0
+			],
+			"scl": [
+				0.49999961256980896,
+				0.5,
+				0.49999961256980896
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				2.4511592388153076,
+				0.9879145622253418,
+				-2.4102625846862793
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.8999993205070496,
+				1.0,
+				0.9999993443489075
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				2.4511592388153076,
+				1.1920928955078125e-07,
+				-2.4102625846862793
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				0.8999993801116943,
+				1.0,
+				0.9999994039535522
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1.3214031457901,
+				-1.1920928955078125e-07,
+				0.8719087243080139
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				4.985334396362305,
+				-1.1920928955078125e-07,
+				0.9874356985092163
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1.8221315145492554,
+				1.0076861381530762,
+				-1.4380234479904175
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 51,
+			"pos": [
+				0.012386023998260498,
+				-0.014664895832538605,
+				0.2560102641582489
+			],
+			"rot": [
+				-0.0,
+				95.0,
+				0.0
+			],
+			"scl": [
+				0.49999991059303284,
+				0.5,
+				0.49999991059303284
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				2.893056869506836,
+				0.9879145622253418,
+				1.619935154914856
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.8999994993209839,
+				1.0,
+				0.9999995231628418
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				2.893056869506836,
+				1.1920928955078125e-07,
+				1.619935154914856
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.8999995589256287,
+				1.0,
+				0.9999995827674866
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				6.076461315155029,
+				1.1920928955078125e-07,
+				-0.8337785005569458
+			],
+			"rot": [
+				-0.0,
+				69.99999237060547,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				1.0,
+				0.9999996423721313
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				4.247745990753174,
+				1.1920928955078125e-07,
+				0.7733009457588196
+			],
+			"rot": [
+				-0.0,
+				159.99993896484375,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				1.0,
+				0.9999996423721313
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				6.159815788269043,
+				-1.1920928955078125e-07,
+				-1.8629975318908691
+			],
+			"rot": [
+				-0.0,
+				99.99998474121094,
+				0.0
+			],
+			"scl": [
+				0.9999995231628418,
+				1.0,
+				0.9999995231628418
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				5.5333638191223145,
+				1.1920928955078125e-07,
+				0.0320608913898468
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				1.0,
+				0.9999996423721313
+			]
+		},
+		{
+			"parent": 51,
+			"pos": [
+				0.012386023998260498,
+				-0.014664895832538605,
+				-0.1681605875492096
+			],
+			"rot": [
+				-0.0,
+				90.99995422363281,
+				0.0
+			],
+			"scl": [
+				0.4999997317790985,
+				0.5,
+				0.4999997317790985
+			]
+		},
+		{
+			"parent": 51,
+			"pos": [
+				0.012386023998260498,
+				-0.014664895832538605,
+				0.04549941420555115
+			],
+			"rot": [
+				-0.0,
+				88.99999237060547,
+				0.0
+			],
+			"scl": [
+				0.4999998211860657,
+				0.5,
+				0.4999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.005535758100450039,
+				-1.1920928955078125e-07,
+				-0.7742661833763123
+			],
+			"rot": [
+				-0.0,
+				69.99999237060547,
+				0.0
+			],
+			"scl": [
+				0.9999997615814209,
+				1.0,
+				0.9999997615814209
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				5.1028242111206055,
+				4.76837158203125e-07,
+				-4.38323450088501
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.999999463558197,
+				1.0,
+				0.999999463558197
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				4.688080787658691,
+				-1.1920928955078125e-07,
+				-3.7810914516448975
+			],
+			"rot": [
+				-0.0,
+				9.999996185302734,
+				0.0
+			],
+			"scl": [
+				0.9999995231628418,
+				1.0,
+				0.9999995231628418
+			]
+		},
+		{
+			"parent": 55,
+			"pos": [
+				0.013239860534667969,
+				-0.014664888381958008,
+				0.048254966735839844
+			],
+			"rot": [
+				-0.0,
+				88.99999237060547,
+				0.0
+			],
+			"scl": [
+				0.4999998211860657,
+				0.5,
+				0.4999998211860657
+			]
+		},
+		{
+			"parent": 55,
+			"pos": [
+				0.013239860534667969,
+				-0.014664888381958008,
+				-0.1654050350189209
+			],
+			"rot": [
+				-0.0,
+				90.99995422363281,
+				0.0
+			],
+			"scl": [
+				0.4999997019767761,
+				0.5,
+				0.4999997019767761
+			]
+		},
+		{
+			"parent": 55,
+			"pos": [
+				0.013239860534667969,
+				-0.014664888381958008,
+				0.2587658166885376
+			],
+			"rot": [
+				-0.0,
+				95.0,
+				0.0
+			],
+			"scl": [
+				0.49999991059303284,
+				0.5,
+				0.49999991059303284
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				5.262818336486816,
+				0.9116348028182983,
+				1.4159035682678223
+			],
+			"rot": [
+				-0.0,
+				-179.99989318847656,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				1.0,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": 55,
+			"pos": [
+				0.013239860534667969,
+				0.14004194736480713,
+				-0.03762543201446533
+			],
+			"rot": [
+				-0.0,
+				84.99995422363281,
+				0.0
+			],
+			"scl": [
+				0.49999958276748657,
+				0.5,
+				0.49999958276748657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				5.250863552093506,
+				0.8981868028640747,
+				-4.427574157714844
+			],
+			"rot": [
+				-0.0,
+				-90.0,
+				0.0
+			],
+			"scl": [
+				0.9999986886978149,
+				1.0,
+				0.9999986886978149
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				7.5167717933654785,
+				4.407120704650879,
+				9.835712432861328
+			],
+			"rot": [
+				20.89716148376465,
+				-179.99989318847656,
+				-2.1788781445330335e-13
+			],
+			"scl": [
+				0.999999463558197,
+				0.9999995231628418,
+				0.9999992847442627
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				4.583718299865723,
+				2.5845041275024414,
+				5.062047958374023
+			],
+			"rot": [
+				20.897178649902344,
+				-179.99989318847656,
+				-2.1788781445330335e-13
+			],
+			"scl": [
+				0.9999991655349731,
+				0.999999463558197,
+				0.9999987483024597
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1.5459461212158203,
+				3.6748099327087402,
+				6.351929187774658
+			],
+			"rot": [
+				29.684240341186523,
+				-179.99989318847656,
+				-2.3430381441459647e-13
+			],
+			"scl": [
+				0.9999992251396179,
+				0.9999996423721313,
+				0.9999989867210388
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.5338577032089233,
+				0.009999999776482582,
+				0.2753382921218872
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-0.03370101749897003,
+				0.009999999776482582,
+				0.2753382921218872
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-0.7441428899765015,
+				0.009999999776482582,
+				0.27529704570770264
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.4269481897354126,
+				0.0,
+				-0.2518450617790222
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-0.5899600386619568,
+				1.5343340635299683,
+				1.6832340955734253
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.16500000655651093,
+				0.16500000655651093,
+				0.30000001192092896
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				1.1087325811386108,
+				1.8406165838241577,
+				-1.8792805671691895
+			],
+			"rot": [
+				90.0,
+				179.99989318847656,
+				-179.99989318847656
+			],
+			"scl": [
+				1.6040585041046143,
+				0.999998152256012,
+				0.9244369268417358
+			]
+		},
+		{
+			"parent": 66,
+			"pos": [
+				0.0,
+				0.009921972639858723,
+				0.0
+			],
+			"rot": [
+				4.0710994688233915e-13,
+				180.0,
+				0.9999996423721313
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.8133421540260315,
+				0.0,
+				-0.4202735424041748
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-2.4008774757385254,
+				2.4942963123321533,
+				-1.4623931646347046
+			],
+			"rot": [
+				32.94578170776367,
+				65.31773376464844,
+				0.0
+			],
+			"scl": [
+				0.9999898672103882,
+				0.9998748898506165,
+				0.9998740553855896
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				2.357771158218384,
+				1.6635366678237915,
+				-0.7791037559509277
+			],
+			"rot": [
+				8.881824493408203,
+				-72.29833984375,
+				0.0
+			],
+			"scl": [
+				0.9999786615371704,
+				0.9995743632316589,
+				0.999631941318512
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-2.7749111652374268,
+				0.45363372564315796,
+				0.5079927444458008
+			],
+			"rot": [
+				-17.188526153564453,
+				111.62149047851563,
+				0.0
+			],
+			"scl": [
+				0.9999834299087524,
+				0.9996984004974365,
+				0.9997093081474304
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-2.425880193710327,
+				1.3568384647369385,
+				-1.125504493713379
+			],
+			"rot": [
+				0.14371144771575928,
+				63.49335479736328,
+				0.0
+			],
+			"scl": [
+				0.9999761581420898,
+				0.9996209144592285,
+				0.9996345043182373
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				6.629103660583496,
+				1.1984548568725586,
+				0.21140411496162415
+			],
+			"rot": [
+				1.4334375858306885,
+				-91.34944152832031,
+				0.0
+			],
+			"scl": [
+				0.9998912811279297,
+				0.9995340704917908,
+				0.999470055103302
+			]
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"profiles": {
+		"default": {
+			"generate-probe": true,
+			"max-probe-size": 64
+		}
+	}
+}

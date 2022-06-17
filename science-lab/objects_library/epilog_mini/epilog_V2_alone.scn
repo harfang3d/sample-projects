@@ -1,0 +1,1899 @@
+{
+	"anims": [
+		{
+			"anim": {
+				"quat": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": [
+									-0.7071068286895752,
+									0.0,
+									0.0,
+									0.7071068286895752
+								]
+							},
+							{
+								"t": 1000000000,
+								"v": [
+									-1.0,
+									0.0,
+									0.0,
+									-4.371138828673793e-08
+								]
+							}
+						],
+						"target": "Rotation"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									-1.5707963705062866,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 1000000000,
+								"tension": 0.0,
+								"v": [
+									-3.1415927410125732,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Rotation"
+					}
+				]
+			},
+			"idx": 0
+		},
+		{
+			"anim": {
+				"quat": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": [
+									1.0,
+									4.371138473402425e-08,
+									4.371138473402425e-08,
+									4.371139183945161e-08
+								]
+							},
+							{
+								"t": 1000000000,
+								"v": [
+									0.7071068286895752,
+									4.439449696747033e-07,
+									4.439449696747033e-07,
+									-0.7071068286895752
+								]
+							}
+						],
+						"target": "Rotation"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									8.742277657347586e-08,
+									-3.1415927410125732,
+									-3.1415927410125732
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 1000000000,
+								"tension": 0.0,
+								"v": [
+									-1.5707963705062866,
+									3.141592025756836,
+									3.141592025756836
+								]
+							}
+						],
+						"target": "Rotation"
+					}
+				]
+			},
+			"idx": 1
+		},
+		{
+			"anim": {
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 2
+		},
+		{
+			"anim": {
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									-28.419105529785156,
+									-3.881491184234619,
+									-4.835245609283447
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 3
+		},
+		{
+			"anim": {
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									10.839176177978516,
+									-3.881491184234619,
+									-4.835243225097656
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 4
+		},
+		{
+			"anim": {
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									10.839200019836426,
+									-3.881491184234619,
+									-4.835243225097656
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 1000000000,
+								"tension": 0.0,
+								"v": [
+									-28.419099807739258,
+									-3.881491184234619,
+									-4.835243225097656
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 5
+		},
+		{
+			"anim": {
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									-28.074426651000977,
+									-3.881491184234619,
+									-4.835243225097656
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 1000000000,
+								"tension": 0.0,
+								"v": [
+									10.839200019836426,
+									-3.881491184234619,
+									-4.835243225097656
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 6
+		},
+		{
+			"anim": {
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									-3.9218759536743164,
+									28.901424407958984,
+									-2.5059432983398438
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 1250000000,
+								"tension": 0.0,
+								"v": [
+									-3.9218759536743164,
+									28.901424407958984,
+									-15.528400421142578
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 2500000000,
+								"tension": 0.0,
+								"v": [
+									-3.9218759536743164,
+									28.901424407958984,
+									-15.528400421142578
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 3750000000,
+								"tension": 0.0,
+								"v": [
+									-3.9218759536743164,
+									28.901424407958984,
+									-2.5058999061584473
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 5000000000,
+								"tension": 0.0,
+								"v": [
+									-3.9218759536743164,
+									28.901424407958984,
+									-2.5058999061584473
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 7
+		},
+		{
+			"anim": {
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									-28.419105529785156,
+									-3.881491184234619,
+									-4.835245609283447
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 1250000000,
+								"tension": 0.0,
+								"v": [
+									-28.419105529785156,
+									-3.881491184234619,
+									-4.835245609283447
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 2500000000,
+								"tension": 0.0,
+								"v": [
+									-19.117000579833984,
+									-3.881491184234619,
+									-4.835245609283447
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 3750000000,
+								"tension": 0.0,
+								"v": [
+									-19.117000579833984,
+									-3.881491184234619,
+									-4.835245609283447
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 5000000000,
+								"tension": 0.0,
+								"v": [
+									-28.419099807739258,
+									-3.881491184234619,
+									-4.835245609283447
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 8
+		},
+		{
+			"anim": {
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									-3.9218759536743164,
+									28.901424407958984,
+									-2.504763126373291
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 500000000,
+								"tension": 0.0,
+								"v": [
+									-3.9218759536743164,
+									28.901424407958984,
+									3.546600103378296
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 1000000000,
+								"tension": 0.0,
+								"v": [
+									-3.9218759536743164,
+									28.901424407958984,
+									-5.913899898529053
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 1500000000,
+								"tension": 0.0,
+								"v": [
+									-3.9218759536743164,
+									28.901424407958984,
+									-16.262500762939453
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 2000000000,
+								"tension": 0.0,
+								"v": [
+									-3.9218759536743164,
+									28.901424407958984,
+									-7.661099910736084
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 2500000000,
+								"tension": 0.0,
+								"v": [
+									-3.9218759536743164,
+									28.901424407958984,
+									-16.679800033569336
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 3000000000,
+								"tension": 0.0,
+								"v": [
+									-3.9218759536743164,
+									28.901424407958984,
+									-6.515999794006348
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 3500000000,
+								"tension": 0.0,
+								"v": [
+									-3.9218759536743164,
+									28.901424407958984,
+									4.680500030517578
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 4000000000,
+								"tension": 0.0,
+								"v": [
+									-3.9218759536743164,
+									28.901424407958984,
+									-4.133500099182129
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 4500000000,
+								"tension": 0.0,
+								"v": [
+									-3.9218759536743164,
+									28.901424407958984,
+									3.3229000568389893
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 5000000000,
+								"tension": 0.0,
+								"v": [
+									-3.9218759536743164,
+									28.901424407958984,
+									-2.5048000812530518
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 44
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": null,
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									-28.419099807739258,
+									-3.8814918994903564,
+									-4.835245132446289
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 500000000,
+								"tension": 0.0,
+								"v": [
+									-17.038211822509766,
+									-3.8814918994903564,
+									-4.835245132446289
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 1000000000,
+								"tension": 0.0,
+								"v": [
+									-6.046999931335449,
+									-3.8814918994903564,
+									-4.835245132446289
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 1500000000,
+								"tension": 0.0,
+								"v": [
+									-16.710800170898438,
+									-3.8814918994903564,
+									-4.835245132446289
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 2000000000,
+								"tension": 0.0,
+								"v": [
+									-4.0655999183654785,
+									-3.8814918994903564,
+									-4.835245132446289
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 2500000000,
+								"tension": 0.0,
+								"v": [
+									8.065500259399414,
+									-3.8814918994903564,
+									-4.835245132446289
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 3000000000,
+								"tension": 0.0,
+								"v": [
+									-2.623699903488159,
+									-3.8814918994903564,
+									-4.835245132446289
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 3500000000,
+								"tension": 0.0,
+								"v": [
+									6.71619987487793,
+									-3.8814918994903564,
+									-4.835245132446289
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 4000000000,
+								"tension": 0.0,
+								"v": [
+									-4.085599899291992,
+									-3.8814918994903564,
+									-4.835245132446289
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 4500000000,
+								"tension": 0.0,
+								"v": [
+									-16.97450065612793,
+									-3.8814918994903564,
+									-4.835245132446289
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 5000000000,
+								"tension": 0.0,
+								"v": [
+									-28.419099807739258,
+									-3.8814918994903564,
+									-4.835245132446289
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 45
+		}
+	],
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			0,
+			0,
+			0,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			0,
+			0,
+			0,
+			0
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": null,
+		"fog_color": [
+			0,
+			0,
+			0,
+			0
+		],
+		"fog_far": 0.0,
+		"fog_near": 0.0,
+		"irradiance_map": "core/pbr/probe.hdr.irradiance",
+		"radiance_map": "core/pbr/probe.hdr.radiance"
+	},
+	"key_values": null,
+	"nodes": [
+		{
+			"components": [
+				0,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 0,
+			"name": "__root__"
+		},
+		{
+			"components": [
+				1,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 1,
+			"name": "RootNode"
+		},
+		{
+			"components": [
+				2,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 2,
+			"name": "porte_frontal"
+		},
+		{
+			"components": [
+				3,
+				4294967295,
+				0,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 3,
+			"name": "porte_frontal"
+		},
+		{
+			"components": [
+				4,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 4,
+			"name": "epilog_bras_impression"
+		},
+		{
+			"components": [
+				5,
+				4294967295,
+				1,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 5,
+			"name": "epilog_bras_impression"
+		},
+		{
+			"components": [
+				6,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 6,
+			"name": "epilog_impression_tete"
+		},
+		{
+			"components": [
+				7,
+				4294967295,
+				2,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 7,
+			"name": "epilog_impression_tete"
+		},
+		{
+			"components": [
+				8,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 8,
+			"name": "eplilog_glass_laser_tete"
+		},
+		{
+			"components": [
+				9,
+				4294967295,
+				3,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 9,
+			"name": "eplilog_glass_laser_tete"
+		},
+		{
+			"components": [
+				10,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 10,
+			"name": "epilog_plateau"
+		},
+		{
+			"components": [
+				11,
+				4294967295,
+				4,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 11,
+			"name": "epilog_plateau"
+		},
+		{
+			"components": [
+				12,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 12,
+			"name": "epilog_body"
+		},
+		{
+			"components": [
+				13,
+				4294967295,
+				5,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 13,
+			"name": "epilog_body"
+		},
+		{
+			"components": [
+				14,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 14,
+			"name": "epllog-trapp-top"
+		},
+		{
+			"components": [
+				15,
+				4294967295,
+				6,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 15,
+			"name": "epllog-trapp-top"
+		},
+		{
+			"components": [
+				16,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 16,
+			"name": "epilog_trapp-top_glass"
+		},
+		{
+			"components": [
+				17,
+				4294967295,
+				7,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 17,
+			"name": "epilog_trapp-top_glass"
+		}
+	],
+	"objects": [
+		{
+			"material_infos": [
+				{
+					"name": "epilog"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "objects_library/epilog_mini/epilog_baseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"path": "objects_library/epilog_mini/epilog_normal.png",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "objects_library/epilog_mini/epilog_occlusionRoughnessMetallic.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								1.0,
+								1.0,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								1.0,
+								1.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "objects_library/epilog_mini/porte_frontal_0.geo"
+		},
+		{
+			"material_infos": [
+				{
+					"name": "epilog"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "objects_library/epilog_mini/epilog_baseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"path": "objects_library/epilog_mini/epilog_normal.png",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "objects_library/epilog_mini/epilog_occlusionRoughnessMetallic.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								1.0,
+								1.0,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								1.0,
+								1.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "objects_library/epilog_mini/epilog_bras_impression_3.geo"
+		},
+		{
+			"material_infos": [
+				{
+					"name": "epilog"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "objects_library/epilog_mini/epilog_baseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"path": "objects_library/epilog_mini/epilog_normal.png",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "objects_library/epilog_mini/epilog_occlusionRoughnessMetallic.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								1.0,
+								1.0,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								1.0,
+								1.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "objects_library/epilog_mini/epilog_impression_tete_2.geo"
+		},
+		{
+			"material_infos": [
+				{
+					"name": "epilog"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "objects_library/epilog_mini/epilog_baseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"path": "objects_library/epilog_mini/epilog_normal.png",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "objects_library/epilog_mini/epilog_occlusionRoughnessMetallic.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								1.0,
+								1.0,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								1.0,
+								1.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "objects_library/epilog_mini/eplilog_glass_laser_tete_1.geo"
+		},
+		{
+			"material_infos": [
+				{
+					"name": "epilog"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "objects_library/epilog_mini/epilog_baseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"path": "objects_library/epilog_mini/epilog_normal.png",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "objects_library/epilog_mini/epilog_occlusionRoughnessMetallic.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								1.0,
+								1.0,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								1.0,
+								1.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "objects_library/epilog_mini/epilog_plateau_4.geo"
+		},
+		{
+			"material_infos": [
+				{
+					"name": "epilog"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "objects_library/epilog_mini/epilog_baseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"path": "objects_library/epilog_mini/epilog_normal.png",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "objects_library/epilog_mini/epilog_occlusionRoughnessMetallic.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								1.0,
+								1.0,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								1.0,
+								1.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "objects_library/epilog_mini/epilog_body_5.geo"
+		},
+		{
+			"material_infos": [
+				{
+					"name": "epilog"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "objects_library/epilog_mini/epilog_baseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"path": "objects_library/epilog_mini/epilog_normal.png",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "objects_library/epilog_mini/epilog_occlusionRoughnessMetallic.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								1.0,
+								1.0,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								1.0,
+								1.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "objects_library/epilog_mini/epllog-trapp-top_7.geo"
+		},
+		{
+			"material_infos": [
+				{
+					"name": "epilog"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "alpha",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "objects_library/epilog_mini/epilog_baseColor.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"path": "objects_library/epilog_mini/epilog_normal.png",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "objects_library/epilog_mini/epilog_occlusionRoughnessMetallic.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								1.0,
+								1.0,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								1.0,
+								1.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "objects_library/epilog_mini/epilog_trapp-top_glass_6.geo"
+		}
+	],
+	"scene_anims": [
+		{
+			"anim": null,
+			"frame_duration": 50000000,
+			"name": "open_door",
+			"node_anims": [
+				{
+					"anim": 0,
+					"node": 14
+				}
+			],
+			"t_end": 1000000000,
+			"t_start": 0
+		},
+		{
+			"anim": null,
+			"frame_duration": 50000000,
+			"name": "close_door",
+			"node_anims": [
+				{
+					"anim": 1,
+					"node": 14
+				}
+			],
+			"t_end": 1000000000,
+			"t_start": 0
+		},
+		{
+			"anim": null,
+			"frame_duration": 50000000,
+			"name": "head_pos_init",
+			"node_anims": [
+				{
+					"anim": 2,
+					"node": 7
+				},
+				{
+					"anim": 3,
+					"node": 6
+				}
+			],
+			"t_end": 100000000,
+			"t_start": 0
+		},
+		{
+			"anim": null,
+			"frame_duration": 50000000,
+			"name": "head_pos_after_job",
+			"node_anims": [
+				{
+					"anim": 4,
+					"node": 6
+				}
+			],
+			"t_end": 100000000,
+			"t_start": 0
+		},
+		{
+			"anim": null,
+			"frame_duration": 50000000,
+			"name": "head_come_back",
+			"node_anims": [
+				{
+					"anim": 5,
+					"node": 6
+				}
+			],
+			"t_end": 1000000000,
+			"t_start": 0
+		},
+		{
+			"anim": null,
+			"frame_duration": 50000000,
+			"name": "head_start_cut",
+			"node_anims": [
+				{
+					"anim": 6,
+					"node": 6
+				}
+			],
+			"t_end": 1000000000,
+			"t_start": 0
+		},
+		{
+			"anim": null,
+			"frame_duration": 50000000,
+			"name": "head_run_square",
+			"node_anims": [
+				{
+					"anim": 7,
+					"node": 4
+				},
+				{
+					"anim": 8,
+					"node": 6
+				}
+			],
+			"t_end": 5000000000,
+			"t_start": 0
+		},
+		{
+			"anim": null,
+			"frame_duration": 50000000,
+			"name": "head_run_x",
+			"node_anims": [
+				{
+					"anim": 44,
+					"node": 4
+				},
+				{
+					"anim": 45,
+					"node": 6
+				}
+			],
+			"t_end": 5000000000,
+			"t_start": 0
+		}
+	],
+	"transforms": [
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				-1.0
+			]
+		},
+		{
+			"parent": 0,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 1,
+			"pos": [
+				-4.027137279510498,
+				2.1856138706207275,
+				31.28345489501953
+			],
+			"rot": [
+				-90.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 2,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 1,
+			"pos": [
+				-3.9218759536743164,
+				28.901424407958984,
+				-2.3959338665008545
+			],
+			"rot": [
+				-90.0,
+				8.651422831462696e-06,
+				8.651421921967994e-06
+			],
+			"scl": [
+				1.000732421875,
+				1.0007293224334717,
+				1.0007308721542358
+			]
+		},
+		{
+			"parent": 4,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 4,
+			"pos": [
+				-28.219680786132813,
+				-3.8814918994903564,
+				-4.835245132446289
+			],
+			"rot": [
+				-4.071112804510113e-12,
+				1.3588804195808084e-18,
+				-1.1399127301803258e-11
+			],
+			"scl": [
+				0.9999982714653015,
+				0.9999999403953552,
+				0.9999993443489075
+			]
+		},
+		{
+			"parent": 6,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 6,
+			"pos": [
+				-3.159046173095703e-06,
+				-3.6000242233276367,
+				-2.7681515216827393
+			],
+			"rot": [
+				7.062246397734597e-31,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 8,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 1,
+			"pos": [
+				-3.9940872192382813,
+				11.027853965759277,
+				2.312516450881958
+			],
+			"rot": [
+				-90.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0007339715957642,
+				1.0007339715957642,
+				1.0007339715957642
+			]
+		},
+		{
+			"parent": 10,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 1,
+			"pos": [
+				-4.027137756347656,
+				20.432392120361328,
+				-4.488068103790283
+			],
+			"rot": [
+				-90.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0007339715957642,
+				1.0007339715957642,
+				1.0007339715957642
+			]
+		},
+		{
+			"parent": 12,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 1,
+			"pos": [
+				-3.9267444610595703,
+				40.774024963378906,
+				-22.309669494628906
+			],
+			"rot": [
+				-90.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0007339715957642,
+				1.0007339715957642,
+				1.0007339715957642
+			]
+		},
+		{
+			"parent": 14,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 14,
+			"pos": [
+				0.0,
+				-3.814697265625e-06,
+				-3.814697265625e-06
+			],
+			"rot": [
+				7.062246397734597e-31,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": 16,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		}
+	]
+}

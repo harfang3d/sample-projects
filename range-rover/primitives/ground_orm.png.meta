@@ -1,0 +1,8 @@
+{
+	"profiles": {
+		"default": {
+			"compression": "ASTC4x4",
+			"max-size": 256
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"profiles": {
+		"default": {
+			"compression": "BC5",
+			"generate-mips": true,
+			"max-size": 2048,
+			"sRGB": false,
+			"type": "NormalMap"
+		}
+	}
+}

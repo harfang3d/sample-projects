@@ -1,0 +1,237 @@
+{
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			0,
+			0,
+			0,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			0,
+			0,
+			0,
+			0
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": null,
+		"fog_color": [
+			0,
+			0,
+			0,
+			0
+		],
+		"fog_far": 0.0,
+		"fog_near": 0.0,
+		"irradiance_map": "core/pbr/probe.hdr.irradiance",
+		"radiance_map": "core/pbr/probe.hdr.radiance"
+	},
+	"instances": [
+		{
+			"name": "objects_library/plaque_materiaux_export/marble_plate.scn"
+		},
+		{
+			"name": "objects_library/plaque_materiaux_export/aluminium_plate.scn"
+		},
+		{
+			"anim": "default",
+			"loop_mode": "none",
+			"name": "objects_library/plaque_materiaux_export/PMMA_plate.scn"
+		},
+		{
+			"name": "assembly/assembly_plate_work.scn"
+		}
+	],
+	"key_values": null,
+	"nodes": [
+		{
+			"components": [
+				0,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 0,
+			"name": "poi_test_piece_pos"
+		},
+		{
+			"components": [
+				1,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 1,
+			"instance": 1,
+			"name": "aluminium_plate"
+		},
+		{
+			"components": [
+				2,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 2,
+			"instance": 0,
+			"name": "marble_plate"
+		},
+		{
+			"components": [
+				3,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 3,
+			"instance": 2,
+			"name": "PMMA_plate"
+		},
+		{
+			"components": [
+				4,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 4,
+			"name": "poi_piece_pos"
+		},
+		{
+			"components": [
+				5,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 5,
+			"instance": 3,
+			"name": "assembly_plate_work"
+		}
+	],
+	"transforms": [
+		{
+			"parent": null,
+			"pos": [
+				-0.538338303565979,
+				-0.010603886097669601,
+				-0.08374571800231934
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.3199999928474426,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-0.3199999928474426,
+				0.0,
+				-0.3400000035762787
+			],
+			"rot": [
+				-0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.3199999928474426,
+				0.0,
+				-0.3400000035762787
+			],
+			"rot": [
+				0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.5,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-0.2094927579164505,
+				0.002479616552591324,
+				0.010745711624622345
+			],
+			"rot": [
+				-0.0,
+				-179.9999542236328,
+				0.0
+			],
+			"scl": [
+				0.9999997615814209,
+				1.0,
+				0.9999997615814209
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-0.3199999928474426,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				90.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		}
+	]
+}

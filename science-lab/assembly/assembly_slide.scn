@@ -1,0 +1,1719 @@
+{
+	"anims": [
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": true
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0,
+				"vec4": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.20000000298023224,
+									0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 5000000000,
+								"tension": 0.0,
+								"v": [
+									1.0,
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Material.0.t"
+					}
+				]
+			},
+			"idx": 0
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 1
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 2
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 3
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 4
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 5
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 6
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": true
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0,
+				"vec4": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.20000000298023224,
+									0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 5000000000,
+								"tension": 0.0,
+								"v": [
+									1.0,
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Material.0.t"
+					}
+				]
+			},
+			"idx": 7
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 8
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 9
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 10
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 11
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 12
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 13
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": true
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0,
+				"vec4": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.20000000298023224,
+									0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 5000000000,
+								"tension": 0.0,
+								"v": [
+									1.0,
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Material.0.t"
+					}
+				]
+			},
+			"idx": 14
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 15
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 16
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 17
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 18
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 19
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 20
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": true
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0,
+				"vec4": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.07000000029802322,
+									0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 5000000000,
+								"tension": 0.0,
+								"v": [
+									1.0,
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Material.0.t"
+					}
+				]
+			},
+			"idx": 21
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 22
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 23
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 24
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 25
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 26
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 27
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": true
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0,
+				"vec4": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.20000000298023224,
+									0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 5000000000,
+								"tension": 0.0,
+								"v": [
+									1.0,
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Material.0.t"
+					}
+				]
+			},
+			"idx": 28
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 29
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": true
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0,
+				"vec4": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 1050000000,
+								"tension": 0.0,
+								"v": [
+									0.07000000029802322,
+									0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 5000000000,
+								"tension": 0.0,
+								"v": [
+									1.0,
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Material.0.t"
+					}
+				]
+			},
+			"idx": 30
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0,
+				"vec4": [
+					{
+						"keys": null,
+						"target": "Material.0.t"
+					}
+				]
+			},
+			"idx": 31
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 32
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 33
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 34
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 35
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": true
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0,
+				"vec4": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.20000000298023224,
+									0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 5000000000,
+								"tension": 0.0,
+								"v": [
+									1.0,
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Material.0.t"
+					}
+				]
+			},
+			"idx": 36
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 37
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 38
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 39
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 40
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 41
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 42
+		}
+	],
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			180,
+			229,
+			255,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			0,
+			0,
+			0,
+			0
+		],
+		"current_camera": null,
+		"fog_color": [
+			0,
+			0,
+			0,
+			0
+		],
+		"fog_far": 0.0,
+		"fog_near": 0.0
+	},
+	"key_values": null,
+	"nodes": [
+		{
+			"components": [
+				0,
+				4294967295,
+				0,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 0,
+			"name": "slide_00"
+		},
+		{
+			"components": [
+				1,
+				4294967295,
+				1,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 1,
+			"name": "slide_01"
+		},
+		{
+			"components": [
+				2,
+				4294967295,
+				2,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 2,
+			"name": "slide_02"
+		},
+		{
+			"components": [
+				3,
+				4294967295,
+				3,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 3,
+			"name": "slide_03"
+		},
+		{
+			"components": [
+				4,
+				4294967295,
+				4,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 4,
+			"name": "slide_04"
+		},
+		{
+			"components": [
+				5,
+				4294967295,
+				5,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 5,
+			"name": "slide_05"
+		}
+	],
+	"objects": [
+		{
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "multiply",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"program": "shaders/fade.hps",
+					"textures": [
+						{
+							"name": "uColorMap",
+							"path": "textures/diapo/00.png",
+							"stage": 0
+						},
+						{
+							"name": "uFadeMap",
+							"path": "textures/fade_8bands.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "t",
+							"type": "vec4",
+							"value": [
+								0.47205787897109985,
+								0.0,
+								0.0,
+								0.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "core_library/primitives/plane.geo"
+		},
+		{
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "multiply",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"program": "shaders/fade.hps",
+					"textures": [
+						{
+							"name": "uColorMap",
+							"path": "textures/diapo/01.png",
+							"stage": 0
+						},
+						{
+							"name": "uFadeMap",
+							"path": "textures/fade_8bands.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "t",
+							"type": "vec4",
+							"value": [
+								0.998996376991272,
+								0.0,
+								0.0,
+								0.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "core_library/primitives/plane.geo"
+		},
+		{
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "multiply",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"program": "shaders/fade.hps",
+					"textures": [
+						{
+							"name": "uColorMap",
+							"path": "textures/diapo/02.png",
+							"stage": 0
+						},
+						{
+							"name": "uFadeMap",
+							"path": "textures/fade_8bands.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "t",
+							"type": "vec4",
+							"value": [
+								0.998989462852478,
+								0.0,
+								0.0,
+								0.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "core_library/primitives/plane.geo"
+		},
+		{
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "multiply",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"program": "shaders/fade.hps",
+					"textures": [
+						{
+							"name": "uColorMap",
+							"path": "textures/diapo/03.png",
+							"stage": 0
+						},
+						{
+							"name": "uFadeMap",
+							"path": "textures/fade_8bands.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "t",
+							"type": "vec4",
+							"value": [
+								0.9988181591033936,
+								0.0,
+								0.0,
+								0.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "core_library/primitives/plane.geo"
+		},
+		{
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "multiply",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"program": "shaders/fade.hps",
+					"textures": [
+						{
+							"name": "uColorMap",
+							"path": "textures/diapo/04.png",
+							"stage": 0
+						},
+						{
+							"name": "uFadeMap",
+							"path": "textures/fade_8bands.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "t",
+							"type": "vec4",
+							"value": [
+								0.9989923238754272,
+								0.0,
+								0.0,
+								0.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "core_library/primitives/plane.geo"
+		},
+		{
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "multiply",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"program": "shaders/fade.hps",
+					"textures": [
+						{
+							"name": "uColorMap",
+							"path": "textures/diapo/05.png",
+							"stage": 0
+						},
+						{
+							"name": "uFadeMap",
+							"path": "textures/fade_8bands.png",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "t",
+							"type": "vec4",
+							"value": [
+								0.9989939332008362,
+								0.0,
+								0.0,
+								0.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "core_library/primitives/plane.geo"
+		}
+	],
+	"scene_anims": [
+		{
+			"anim": null,
+			"frame_duration": 50000000,
+			"name": "fade_in_00",
+			"node_anims": [
+				{
+					"anim": 0,
+					"node": 0
+				},
+				{
+					"anim": 1,
+					"node": 1
+				},
+				{
+					"anim": 2,
+					"node": 2
+				},
+				{
+					"anim": 3,
+					"node": 3
+				},
+				{
+					"anim": 4,
+					"node": 4
+				},
+				{
+					"anim": 5,
+					"node": 5
+				}
+			],
+			"t_end": 5000000000,
+			"t_start": 0
+		},
+		{
+			"anim": null,
+			"frame_duration": 50000000,
+			"name": "fade_in_01",
+			"node_anims": [
+				{
+					"anim": 6,
+					"node": 0
+				},
+				{
+					"anim": 7,
+					"node": 1
+				},
+				{
+					"anim": 8,
+					"node": 2
+				},
+				{
+					"anim": 9,
+					"node": 3
+				},
+				{
+					"anim": 10,
+					"node": 4
+				},
+				{
+					"anim": 11,
+					"node": 5
+				}
+			],
+			"t_end": 5000000000,
+			"t_start": 0
+		},
+		{
+			"anim": null,
+			"frame_duration": 50000000,
+			"name": "fade_in_02",
+			"node_anims": [
+				{
+					"anim": 12,
+					"node": 0
+				},
+				{
+					"anim": 13,
+					"node": 1
+				},
+				{
+					"anim": 14,
+					"node": 2
+				},
+				{
+					"anim": 15,
+					"node": 3
+				},
+				{
+					"anim": 16,
+					"node": 4
+				},
+				{
+					"anim": 17,
+					"node": 5
+				}
+			],
+			"t_end": 5000000000,
+			"t_start": 0
+		},
+		{
+			"anim": null,
+			"frame_duration": 50000000,
+			"name": "fade_in_03",
+			"node_anims": [
+				{
+					"anim": 18,
+					"node": 0
+				},
+				{
+					"anim": 19,
+					"node": 1
+				},
+				{
+					"anim": 20,
+					"node": 2
+				},
+				{
+					"anim": 21,
+					"node": 3
+				},
+				{
+					"anim": 22,
+					"node": 4
+				},
+				{
+					"anim": 23,
+					"node": 5
+				}
+			],
+			"t_end": 5000000000,
+			"t_start": 0
+		},
+		{
+			"anim": null,
+			"frame_duration": 50000000,
+			"name": "fade_in_04",
+			"node_anims": [
+				{
+					"anim": 24,
+					"node": 0
+				},
+				{
+					"anim": 25,
+					"node": 1
+				},
+				{
+					"anim": 26,
+					"node": 2
+				},
+				{
+					"anim": 27,
+					"node": 3
+				},
+				{
+					"anim": 28,
+					"node": 4
+				},
+				{
+					"anim": 29,
+					"node": 5
+				}
+			],
+			"t_end": 5000000000,
+			"t_start": 0
+		},
+		{
+			"anim": null,
+			"frame_duration": 50000000,
+			"name": "fade_in_05",
+			"node_anims": [
+				{
+					"anim": 30,
+					"node": 5
+				},
+				{
+					"anim": 31,
+					"node": 4
+				},
+				{
+					"anim": 32,
+					"node": 3
+				},
+				{
+					"anim": 33,
+					"node": 2
+				},
+				{
+					"anim": 34,
+					"node": 1
+				},
+				{
+					"anim": 35,
+					"node": 0
+				},
+				{
+					"anim": 36,
+					"node": 5
+				}
+			],
+			"t_end": 5000000000,
+			"t_start": 0
+		},
+		{
+			"anim": null,
+			"frame_duration": 50000000,
+			"name": "init",
+			"node_anims": [
+				{
+					"anim": 37,
+					"node": 0
+				},
+				{
+					"anim": 38,
+					"node": 1
+				},
+				{
+					"anim": 39,
+					"node": 2
+				},
+				{
+					"anim": 40,
+					"node": 3
+				},
+				{
+					"anim": 41,
+					"node": 4
+				},
+				{
+					"anim": 42,
+					"node": 5
+				}
+			],
+			"t_end": 100000000,
+			"t_start": 0
+		}
+	],
+	"transforms": [
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		}
+	]
+}

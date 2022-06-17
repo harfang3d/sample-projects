@@ -1,0 +1,9 @@
+{
+	"profiles": {
+		"default": {
+			"compression": "ETC2",
+			"max-size": 512,
+			"srgb": 1
+		}
+	}
+}

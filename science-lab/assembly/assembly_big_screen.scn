@@ -1,0 +1,1665 @@
+{
+	"anims": [
+		{
+			"anim": {
+				"float": [
+					{
+						"keys": null,
+						"target": "Opacity"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 1000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.20479999482631683,
+									-0.3986999988555908
+								]
+							}
+						],
+						"target": "Position"
+					},
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.5849999785423279,
+									0.999998927116394,
+									0.38999998569488525
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 1000000000,
+								"tension": 0.0,
+								"v": [
+									1.1699999570846558,
+									0.999998927116394,
+									0.7799999713897705
+								]
+							}
+						],
+						"target": "Scale"
+					}
+				]
+			},
+			"idx": 0
+		},
+		{
+			"anim": {
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": null,
+						"target": "Position"
+					},
+					{
+						"keys": null,
+						"target": "Scale"
+					}
+				]
+			},
+			"idx": 1
+		},
+		{
+			"anim": {
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": null,
+						"target": "Scale"
+					},
+					{
+						"keys": null,
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 2
+		},
+		{
+			"anim": {
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									1.1699999570846558,
+									0.999998927116394,
+									0.7799999713897705
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 1000000000,
+								"tension": 0.0,
+								"v": [
+									0.5849999785423279,
+									0.999998927116394,
+									0.38999998569488525
+								]
+							}
+						],
+						"target": "Scale"
+					},
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.20479999482631683,
+									-0.3986999988555908
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 1000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 3
+		},
+		{
+			"anim": {
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									1.1699999570846558,
+									1.0,
+									0.7799999713897705
+								]
+							}
+						],
+						"target": "Scale"
+					},
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.20479999482631683,
+									-0.3986999988555908
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 4
+		},
+		{
+			"anim": {
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.5849999785423279,
+									1.0,
+									0.38999998569488525
+								]
+							}
+						],
+						"target": "Scale"
+					},
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 5
+		},
+		{
+			"anim": {
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.5849999785423279,
+									1.0,
+									0.38999998569488525
+								]
+							}
+						],
+						"target": "Scale"
+					},
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 6
+		},
+		{
+			"anim": {
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									1.1699999570846558,
+									1.0,
+									0.7799999713897705
+								]
+							}
+						],
+						"target": "Scale"
+					},
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.20315034687519073,
+									-0.2800000011920929
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 7
+		},
+		{
+			"anim": {
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.5849999785423279,
+									1.0,
+									0.38999998569488525
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 1000000000,
+								"tension": 0.0,
+								"v": [
+									1.1699999570846558,
+									1.0,
+									0.7799999713897705
+								]
+							}
+						],
+						"target": "Scale"
+					},
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 1000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.20479999482631683,
+									-0.2800000011920929
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 8
+		},
+		{
+			"anim": {
+				"t_end": 0,
+				"t_start": 0,
+				"vec3": [
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									1.1699999570846558,
+									1.0,
+									0.7799999713897705
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 1000000000,
+								"tension": 0.0,
+								"v": [
+									0.5849999785423279,
+									1.0,
+									0.38999998569488525
+								]
+							}
+						],
+						"target": "Scale"
+					},
+					{
+						"keys": [
+							{
+								"bias": 0.0,
+								"t": 0,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.20479999482631683,
+									-0.2800000011920929
+								]
+							},
+							{
+								"bias": 0.0,
+								"t": 1000000000,
+								"tension": 0.0,
+								"v": [
+									0.0,
+									0.0,
+									0.0
+								]
+							}
+						],
+						"target": "Position"
+					}
+				]
+			},
+			"idx": 9
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": true
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 10
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 11
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 12
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 13
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": true
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 14
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 15
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 16
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 17
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 18
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 19
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": true
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 20
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 21
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": true
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 22
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 23
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 24
+		},
+		{
+			"anim": {
+				"bool": [
+					{
+						"keys": [
+							{
+								"t": 0,
+								"v": false
+							}
+						],
+						"target": "Enable"
+					}
+				],
+				"t_end": 0,
+				"t_start": 0
+			},
+			"idx": 25
+		}
+	],
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			67,
+			67,
+			67,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			0,
+			0,
+			0,
+			0
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": null,
+		"fog_color": [
+			0,
+			0,
+			0,
+			0
+		],
+		"fog_far": 0.0,
+		"fog_near": 0.0,
+		"irradiance_map": "core/pbr/probe.hdr.irradiance",
+		"radiance_map": "core/pbr/probe.hdr.radiance"
+	},
+	"key_values": null,
+	"nodes": [
+		{
+			"components": [
+				0,
+				4294967295,
+				0,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 0,
+			"name": "default_pc_screen"
+		},
+		{
+			"components": [
+				1,
+				4294967295,
+				1,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 1,
+			"name": "big_screen_ref"
+		},
+		{
+			"components": [
+				2,
+				4294967295,
+				2,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 2,
+			"name": "small_screen_ref"
+		},
+		{
+			"components": [
+				3,
+				4294967295,
+				3,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 3,
+			"name": "first_pc_screen"
+		},
+		{
+			"components": [
+				4,
+				4294967295,
+				4,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 4,
+			"name": "second_pc_screen"
+		},
+		{
+			"components": [
+				5,
+				4294967295,
+				5,
+				4294967295,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 5,
+			"name": "third_pc_screen"
+		},
+		{
+			"components": [
+				6,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 6,
+			"name": "parent_screen"
+		},
+		{
+			"components": [
+				7,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 7,
+			"name": "poi_work_space_size"
+		},
+		{
+			"components": [
+				8,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 8,
+			"name": "poi_preference"
+		}
+	],
+	"objects": [
+		{
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "textures/corel_screen.PNG",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.16877639293670654,
+								0.16877470910549164,
+								0.16877470910549164,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.9459999799728394,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								9.999899930335232e-07,
+								9.999999974752427e-07,
+								9.99999883788405e-07,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "core_library/primitives/plane.geo"
+		},
+		{
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "textures/corel_screen.PNG",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.16877639293670654,
+								0.16877470910549164,
+								0.16877470910549164,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.9459999799728394,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								9.999899930335232e-07,
+								9.999999974752427e-07,
+								9.99999883788405e-07,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "core_library/primitives/plane.geo"
+		},
+		{
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "textures/corel_screen.PNG",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.16877639293670654,
+								0.16877470910549164,
+								0.16877470910549164,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.9459999799728394,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								9.999899930335232e-07,
+								9.999999974752427e-07,
+								9.99999883788405e-07,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "core_library/primitives/plane.geo"
+		},
+		{
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "textures/properties_1.png",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.16877639293670654,
+								0.16877470910549164,
+								0.16877470910549164,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.9459999799728394,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								9.999899930335232e-07,
+								9.999999974752427e-07,
+								9.99999883788405e-07,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "core_library/primitives/plane.geo"
+		},
+		{
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "textures/properties_3.png",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.16877639293670654,
+								0.16877470910549164,
+								0.16877470910549164,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.9459999799728394,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								9.999899930335232e-07,
+								9.999999974752427e-07,
+								9.99999883788405e-07,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "core_library/primitives/plane.geo"
+		},
+		{
+			"material_infos": [
+				{
+					"name": "default"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "textures/properties_2.png",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.16877639293670654,
+								0.16877470910549164,
+								0.16877470910549164,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.9459999799728394,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								9.999899930335232e-07,
+								9.999999974752427e-07,
+								9.99999883788405e-07,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "core_library/primitives/plane.geo"
+		}
+	],
+	"scene_anims": [
+		{
+			"anim": null,
+			"frame_duration": 50000000,
+			"name": "zoom_out",
+			"node_anims": [
+				{
+					"anim": 9,
+					"node": 6
+				}
+			],
+			"t_end": 1000000000,
+			"t_start": 0
+		},
+		{
+			"anim": null,
+			"frame_duration": 50000000,
+			"name": "zoom_in",
+			"node_anims": [
+				{
+					"anim": 8,
+					"node": 6
+				}
+			],
+			"t_end": 1000000000,
+			"t_start": 0
+		},
+		{
+			"anim": null,
+			"frame_duration": 50000000,
+			"name": "big_screen",
+			"node_anims": [
+				{
+					"anim": 7,
+					"node": 6
+				}
+			],
+			"t_end": 100000000,
+			"t_start": 0
+		},
+		{
+			"anim": null,
+			"frame_duration": 50000000,
+			"name": "default_screen",
+			"node_anims": [
+				{
+					"anim": 6,
+					"node": 6
+				}
+			],
+			"t_end": 100000000,
+			"t_start": 0
+		},
+		{
+			"anim": null,
+			"frame_duration": 50000000,
+			"name": "show_first_screen",
+			"node_anims": [
+				{
+					"anim": 10,
+					"node": 3
+				},
+				{
+					"anim": 11,
+					"node": 0
+				},
+				{
+					"anim": 12,
+					"node": 4
+				},
+				{
+					"anim": 13,
+					"node": 5
+				}
+			],
+			"t_end": 100000000,
+			"t_start": 0
+		},
+		{
+			"anim": null,
+			"frame_duration": 50000000,
+			"name": "show_default_screen",
+			"node_anims": [
+				{
+					"anim": 14,
+					"node": 0
+				},
+				{
+					"anim": 15,
+					"node": 3
+				},
+				{
+					"anim": 16,
+					"node": 4
+				},
+				{
+					"anim": 17,
+					"node": 5
+				}
+			],
+			"t_end": 100000000,
+			"t_start": 0
+		},
+		{
+			"anim": null,
+			"frame_duration": 50000000,
+			"name": "show_second_screen",
+			"node_anims": [
+				{
+					"anim": 18,
+					"node": 0
+				},
+				{
+					"anim": 19,
+					"node": 3
+				},
+				{
+					"anim": 20,
+					"node": 4
+				},
+				{
+					"anim": 21,
+					"node": 5
+				}
+			],
+			"t_end": 100000000,
+			"t_start": 0
+		},
+		{
+			"anim": null,
+			"frame_duration": 50000000,
+			"name": "show_third_screen",
+			"node_anims": [
+				{
+					"anim": 22,
+					"node": 5
+				},
+				{
+					"anim": 23,
+					"node": 4
+				},
+				{
+					"anim": 24,
+					"node": 3
+				},
+				{
+					"anim": 25,
+					"node": 0
+				}
+			],
+			"t_end": 100000000,
+			"t_start": 0
+		}
+	],
+	"transforms": [
+		{
+			"parent": 6,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				8.651422831462696e-06,
+				8.651392818137538e-06
+			],
+			"scl": [
+				1.0,
+				0.999998927116394,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-2.3286143857603747e-07,
+				0.20481647551059723,
+				-0.2800000011920929
+			],
+			"rot": [
+				-0.0,
+				8.651422831462696e-06,
+				8.651390999148134e-06
+			],
+			"scl": [
+				1.1699999570846558,
+				0.9999986290931702,
+				0.7799997329711914
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				8.651422831462696e-06,
+				8.651392818137538e-06
+			],
+			"scl": [
+				0.5849999785423279,
+				0.999998927116394,
+				0.38999998569488525
+			]
+		},
+		{
+			"parent": 6,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				8.651422831462696e-06,
+				8.651392818137538e-06
+			],
+			"scl": [
+				1.0,
+				0.999998927116394,
+				1.0
+			]
+		},
+		{
+			"parent": 6,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				8.651422831462696e-06,
+				8.651392818137538e-06
+			],
+			"scl": [
+				1.0,
+				0.999998927116394,
+				1.0
+			]
+		},
+		{
+			"parent": 6,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				8.651422831462696e-06,
+				8.651392818137538e-06
+			],
+			"scl": [
+				1.0,
+				0.999998927116394,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				-84.50017547607422,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.5849999785423279,
+				1.0,
+				0.38999998569488525
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-0.3965478837490082,
+				0.49049338698387146,
+				-0.2630264163017273
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-0.5630884766578674,
+				0.5537831783294678,
+				-0.2542389929294586
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		}
+	]
+}
