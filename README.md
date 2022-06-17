@@ -1,2 +1,2 @@
-# sample-projects
+# Sample Projects
 3D samples projects for HARFANG 3D and HARFANG Studio
