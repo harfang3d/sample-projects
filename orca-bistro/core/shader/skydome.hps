@@ -1,0 +1,8 @@
+{
+	"features": [],
+	"uniforms": [
+					{"name": "uDiffuseMap", "type": "Sampler", "channel": 3},
+					{"name": "uSelfMap", "type": "Sampler", "channel": 4},
+					{"name": "uSkyDomeParam", "type": "Vec4", "value": [0.200, 0.002, 1.850, 1.0]}
+				]	
+}

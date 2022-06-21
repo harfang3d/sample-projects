@@ -1,0 +1,8 @@
+{
+	"profiles": {
+		"default": {
+			"wrap-U": "Clamp",
+			"wrap-V": "Clamp"
+		}
+	}
+}
