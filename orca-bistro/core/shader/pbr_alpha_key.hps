@@ -1,9 +1,0 @@
-{
-	"features": [],
-	"uniforms": [
-		{"name": "uBaseOpacityMap", "type": "Sampler", "channel": 0},
-		{"name": "uOcclusionRoughnessMetalnessColor", "type": "Vec4", "value": [1.0, 0.25, 0.01, 0.0]},
-		{"name": "uNormalMap", "type": "Sampler", "channel": 2},
-		{"name": "uParams", "type": "Vec4", "value": [0.5, 0.0, 0.0, 0.0]}
-	]
-}
