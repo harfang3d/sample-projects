@@ -1,3 +1,7 @@
+// HARFANG(R) Copyright (C) 2022 Emmanuel Julien, NWNC HARFANG. Released under GPL/LGPL/Commercial Licence, see licence.txt for details.
+
+// DO NOT MODIFY THIS FILE!
+
 #include <bgfx_shader.sh>
 
 #define PI 3.14159265359
@@ -29,20 +33,28 @@ uniform mat4 uMainInvProjection; // inverse projection for the main render (used
 uniform mat4 uPreviousViewProjection;
 uniform mat4 uPreviousModel[BGFX_CONFIG_MAX_BONES];
 uniform mat4 uViewProjUnjittered;
-uniform vec4 uAAAParams[3]; // [0].x: ssgi ratio, [0].y: ssr ratio, [0].z: temporal AA weight, [0].w: motion blur strength, [1].x: exposure, [1].y: 1/gamma, [1].z: sample count, [1].w: max radius, [2].x: specular weight
+uniform vec4 uAAAParams[3]; // [0].x: ssgi ratio, [0].y: ssr ratio, [0].z: temporal AA weight, [0].w: motion blur strength,
+							// [1].x: exposure, [1].y: 1/gamma, [1].z: sample count, [1].w: screenspace ray max length
+							// [2].x: specular weight, [2].y: sharpen
 
 uniform mat4 uMainInvView; // inversion view matrix
 uniform mat4 uProbeMatrix;
 uniform mat4 uInvProbeMatrix;
 uniform vec4 uProbeData;
 
-SAMPLERCUBE(uIrradianceMap, 7);
-SAMPLERCUBE(uRadianceMap, 8);
-SAMPLER2D(uSSIrradianceMap, 9);
-SAMPLER2D(uSSRadianceMap, 10);
-SAMPLER2D(uBrdfMap, 11);
-SAMPLER2D(uNoiseMap, 12);
-SAMPLER2D(uAmbientOcclusion, 13);
+/*
+	Reserved texture units for the AAA forward pipeline.
+	Do not modify these slots, they are hardcoded on the C++ side.
+
+	If reserving new slots for the pipeline please keep in mind WebGL limitations: https://webglreport.com/?v=2
+	At the moment it is not advisable to use texture units beyond 16 for embedded platforms.
+*/
+SAMPLERCUBE(uIrradianceMap, 8);
+SAMPLERCUBE(uRadianceMap, 9);
+SAMPLER2D(uSSIrradianceMap, 10);
+SAMPLER2D(uSSRadianceMap, 11);
+SAMPLER2D(uBrdfMap, 12);
+SAMPLER2D(uNoiseMap, 13);
 SAMPLER2DSHADOW(uLinearShadowMap, 14);
 SAMPLER2DSHADOW(uSpotShadowMap, 15);
 

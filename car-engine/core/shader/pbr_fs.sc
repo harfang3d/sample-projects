@@ -1,5 +1,6 @@
 $input vWorldPos, vNormal, vTangent, vBinormal, vTexCoord0, vTexCoord1, vLinearShadowCoord0, vLinearShadowCoord1, vLinearShadowCoord2, vLinearShadowCoord3, vSpotShadowCoord, vProjPos, vPrevProjPos
 
+// HARFANG(R) Copyright (C) 2022 Emmanuel Julien, NWNC HARFANG. Released under GPL/LGPL/Commercial Licence, see licence.txt for details.
 #include <forward_pipeline.sh>
 
 // Surface attributes
@@ -39,15 +40,16 @@ float SampleShadowPCF(sampler2DShadow map, vec4 coord, float inv_pixel_size, flo
 #if FORWARD_PIPELINE_AAA
 	#define PCF_SAMPLE_COUNT 2.0 // 3x3
 
+//	float weights[9] = {0.024879, 0.107973, 0.024879, 0.107973, 0.468592, 0.107973, 0.024879, 0.107973, 0.024879};
+	float weights[9] = {0.011147, 0.083286, 0.011147, 0.083286, 0.622269, 0.083286, 0.011147, 0.083286, 0.011147};
+
 	for (float j = 0.0; j <= PCF_SAMPLE_COUNT; ++j) {
-		float v = (j + jitter.y) / PCF_SAMPLE_COUNT * 2.0 - 1.0;
+		float v = 6.0 * (j + jitter.y) / PCF_SAMPLE_COUNT - 1.0;
 		for (float i = 0.0; i <= PCF_SAMPLE_COUNT; ++i) {
-			float u = (i + jitter.x) / PCF_SAMPLE_COUNT * 2.0 - 1.0;
-			k += SampleHardShadow(map, coord + vec4(vec2(u, v) * k_pixel_size, 0.0, 0.0), bias);
+			float u = 6.0 * (i + jitter.x) / PCF_SAMPLE_COUNT - 1.0;
+			k += SampleHardShadow(map, coord + vec4(vec2(u, v) * k_pixel_size, 0.0, 0.0), bias) * weights[j * 3 + i];
 		}
 	}
-
-	k /= (PCF_SAMPLE_COUNT + 1) * (PCF_SAMPLE_COUNT + 1);
 #else // FORWARD_PIPELINE_AAA
 	// 2x2
 	k += SampleHardShadow(map, coord + vec4(vec2(-0.5, -0.5) * k_pixel_size, 0.0, 0.0), bias);
@@ -291,5 +293,7 @@ void main() {
 
 	gl_FragColor = vec4(color, opacity);
 #endif // FORWARD_PIPELINE_AAA_PREPASS
+#else
+	gl_FragColor = vec4_splat(0.0); // note: fix required to stop glsl-optimizer from removing the whole function body
 #endif // DEPTH_ONLY
 }
