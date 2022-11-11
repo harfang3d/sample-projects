@@ -48,11 +48,6 @@
 			"type": "cube"
 		}
 	},
-	"instances": [
-		{
-			"name": "vehicles/generic_vehicle/drivable_car.scn"
-		}
-	],
 	"key_values": null,
 	"nodes": [
 		{
@@ -126,43 +121,6 @@
 			"disabled": false,
 			"idx": 5,
 			"name": "painting"
-		},
-		{
-			"components": [
-				6,
-				4294967295,
-				6,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 6,
-			"name": "sphere_chrome"
-		},
-		{
-			"components": [
-				8,
-				4294967295,
-				7,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 7,
-			"name": "sphere_chrome"
-		},
-		{
-			"components": [
-				7,
-				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 8,
-			"instance": 0,
-			"name": "drivable_car"
 		}
 	],
 	"objects": [
@@ -544,156 +502,6 @@
 				}
 			],
 			"name": "showroom/painting_48.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": "default"
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/pbr.hps",
-					"values": [
-						{
-							"name": "uBaseOpacityColor",
-							"type": "vec4",
-							"value": [
-								1.0,
-								0.9999899864196777,
-								0.9999899864196777,
-								1.0
-							]
-						},
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.5882353186607361,
-								0.5882353186607361,
-								0.5882353186607361,
-								1.0
-							]
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessColor",
-							"type": "vec4",
-							"value": [
-								1.0,
-								0.10000000149011612,
-								0.949999988079071,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								0.03124999813735485
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "primitives/sphere.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": "default"
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/pbr.hps",
-					"values": [
-						{
-							"name": "uBaseOpacityColor",
-							"type": "vec4",
-							"value": [
-								0.3628692030906677,
-								0.3628692030906677,
-								0.3628692030906677,
-								1.0
-							]
-						},
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.5882353186607361,
-								0.5882353186607361,
-								0.5882353186607361,
-								1.0
-							]
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessColor",
-							"type": "vec4",
-							"value": [
-								1.0,
-								0.6480000019073486,
-								1.0,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								0.03124999813735485
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "primitives/sphere.geo"
 		}
 	],
 	"transforms": [
@@ -796,60 +604,6 @@
 			],
 			"rot": [
 				90.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				-2.568359375,
-				0.5419566631317139,
-				1.3097915649414063
-			],
-			"rot": [
-				-7.0167078561561656e-15,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				0.0,
-				0.0,
-				0.0
-			],
-			"rot": [
-				0.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				2.1099929809570313,
-				0.5419566631317139,
-				1.3097915649414063
-			],
-			"rot": [
-				-7.0167078561561656e-15,
 				0.0,
 				0.0
 			],
