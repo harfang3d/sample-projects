@@ -587,7 +587,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 21,
+			"idx": 14,
 			"name": "shadow"
 		},
 		{
@@ -599,7 +599,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 22,
+			"idx": 15,
 			"name": "shadow"
 		}
 	],
@@ -714,7 +714,7 @@
 							]
 						}
 					],
-					"write_a": true,
+					"write_a": false,
 					"write_b": true,
 					"write_g": true,
 					"write_r": true,
@@ -1724,7 +1724,7 @@
 							]
 						}
 					],
-					"write_a": true,
+					"write_a": false,
 					"write_b": true,
 					"write_g": true,
 					"write_r": true,
@@ -1806,7 +1806,7 @@
 							]
 						}
 					],
-					"write_a": true,
+					"write_a": false,
 					"write_b": true,
 					"write_g": true,
 					"write_r": true,
@@ -2087,7 +2087,7 @@
 				0.20970550179481506
 			],
 			"rot": [
-				-7.016708279672639e-15,
+				-7.0167078561561656e-15,
 				0.0,
 				0.0
 			],
@@ -2105,7 +2105,7 @@
 				0.20970550179481506
 			],
 			"rot": [
-				-7.016708279672639e-15,
+				-7.0167078561561656e-15,
 				0.0,
 				0.0
 			],
