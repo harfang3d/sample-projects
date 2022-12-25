@@ -1,0 +1,11 @@
+{
+	"profiles": {
+		"default": {
+			"generate-probe": true,
+			"max-probe-size": 512,
+			"max-size": 256,
+			"radiance-edge-fixup": true,
+			"type": "Standard"
+		}
+	}
+}
